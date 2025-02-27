@@ -5,7 +5,7 @@
 
  | `Total Audits` 🛡️ | `High Risks`  | `Medium Risks` |  `Unique Findings`   |  `Top Placements`                                     |
  | ----------------- | ------------- | -------------- | -------------------- | ----------------------------------------------------- |
- | **_`45+`_**       | **_`45`_**    | **_`55`_**     |  **_`10`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        |
+ | **_`40+`_**       | **_`45`_**    | **_`55`_**     |  **_`10`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        |
 
 
 
@@ -14,36 +14,58 @@
 
 # Audits List 📓
 
-Work in progress, all existing information is from the original template.
-
-<details><summary> See detailed info 🔍👁️ </summary>
-
-**Specific findings and details** of each audit in the `go to report` link.
-
 ## Public Competitions
 (from **most recent** to **oldest**)
 
- _Contest Name_                                                              | H / M      | _Audit Reports_                                                        | _Date_                               |
- --------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------- | ------------------------------------ |
- ***Tally ARB Staker***: DAO staking infra                                   | **`0/0`**  | [go to report](./reports/2024-12-tallyArbStaker/)                      | 17/December/2024 - 22/December/2024  |
- ***Collar Core***: Option structured loans                                  | **`0/2`**  | [go to report](./reports/2024-11-collar-core/)                         | 25/November/2024 - 16/December/2024  |
-
+| Begin month | Project | Category | Provider | Report | Platform |
+| :---: | :--- | :---  | :--- | :---: | :--- |
+| 2024-12 | SecondSwap | DEX | Code4rena | [see report](./reports/Contests/2024/12_December/SecondSwap_C4/) | Solidity / EVM |
+| 2024-12 | IdleFinance | Lending, ERC4626 | Sherlock | **To be disclosed** | Solidity / EVM |
+| 2024-11 | Concrete | ERC4626, DeFi Strategies | Code4rena | [see report](./reports/Contests/2024/11_November/Concrete_C4/) | Solidity / EVM |
+| 2024-10 | Flow | Payment Streaming | CodeHawks | [see report](./reports/Contests/2024/10_October/Flow_CodeHawks/) | Solidity / EVM |
+| 2024-09 | MorphL2 | L2 Bridge, Staking | Sherlock | [see report](./reports/Contests/2024/09_September/MorphL2_Sherlock/) | Solidity / EVM |
+| 2024-07 | Zaros | Perpetuals / Options | CodeHawks | [see report](./reports/Contests/2024/07_July/Zaros_CodeHawks/) | Solidity / EVM |
+| 2024-07 | CreditSize | Lending | Code4rena | [see report](./reports/Contests/2024/07_July/CreditSize_C4/) | Solidity / EVM |
+| 2024-06 | BakerFi | ERC4626, DeFi Strategies | Code4rena | [see report](./reports/Contests/2024/06_June/BakerFi_C4/) | Solidity / EVM |
+| 2024-04 | Panoptic | Perpetuals / Options | Code4rena | [see report](./reports/Contests/2024/04_April/Panoptic_C4/) | Solidity / EVM |
+| 2024-03 | WiseLending | Lending | Code4rena | [see report](./reports/Contests/2024/03_March/WiseLending_C4/) | Solidity / EVM |
+| 2024-03 | CopraFinance | Crypto Bond | Sherlock | **To be disclosed** | Solidity / EVM |
+| 2024-01 | Curves | SocialFi | Code4rena | [see report](./reports/Contests/2024/01_January/Curves_C4/) | Solidity / EVM |
+| 2023-12 | EthereumCreditGuild | Lending | Code4rena | [see report](./reports/Contests/2023/12_December/EthereumCreditGuild_C4/) | Solidity / EVM |
+| 2023-11 | Morpho | Lending | Cantina | [see report](./reports/Contests/2023/11_November/Morpho_Cantina/) | Solidity / EVM |
+| 2023-10 | WildCat | Lending | Code4rena | [see report](./reports/Contests/2023/10_October/WildcatProtocol_C4/) | Solidity / EVM |
+| 2023-10 | MaiaUlysses | Lending / Multichain / LZ Integration | Code4rena | [see report](./reports/Contests/2023/10_October/MaiaUlysses_C4/) | Solidity / EVM |
+| 2023-09 | Centrifuge | RWA | Code4rena | [see report](./reports/Contests/2023/09_September/Centrifuge_C4/) | Solidity / EVM |
+| 2023-09 | OndoFinance | RWA | Code4rena | [see report](./reports/Contests/2023/09_September/OndoFinance_C4/) | Solidity / EVM |
+| 2023-08 | Tapioca | Lending / Multichain / LZ Integration | Code4rena | [see report](./reports/Contests/2023/08_August/Tapioca_C4/) | Solidity / EVM |
+| 2023-08 | PoolTogether Deux | GameFi / Yield Tokenization | Code4rena | [see report](./reports/Contests/2023/08_August/PoolTogether_Deux_C4/) | Solidity / EVM |
+| 2023-07 | PoolTogether | GameFi / Yield Tokenization | Code4rena | [see report](./reports/Contests/2023/07_July/PoolTogether_C4/) | Solidity / EVM |
+| 2023-07 | MaiaDAO | Lending / Multichain | Code4rena | [see report](./reports/Contests/2023/07_July/MaiaDAO_C4/) | Solidity / EVM |
+| 2023-07 | Escrow | Escrow | CodeHawks | [see report](./reports/Contests/2023/07_July/Escrow_CodeHawks/) | Solidity / EVM |
+| 2023-06 | Unstoppable | DEX | CodeHawks | [see report](./reports/Contests/2023/06_June/Unstoppable_Sherlock/) | Vyper / EVM |
+| 2023-05 | Venus Isolated Pools | Lending | Code4rena | [see report](./reports/Contests/2023/05_May/VenusIsolatedPools_C4/) | Solidity / EVM |
+| 2023-05 | USSD | StableCoin | Sherlock | [see report](./reports/Contests/2023/05_May/USSD_Sherlock/) | Solidity / EVM |
+| 2023-05 | Index | Lending | Sherlock | [see report](./reports/Contests/2023/05_May/Index_Sherlock/) | Solidity / EVM |
+| 2023-05 | Footium | GameFi / ERC721 | Sherlock | [see report](./reports/Contests/2023/05_May/Footium_Sherlock/) | Solidity / EVM |
+| 2023-05 | Ajna | Lending | Code4rena | [see report](./reports/Contests/2023/05_May/AjnaProtocol_C4/) | Solidity / EVM |
 
 
 ## Private Engagements
- _Protocol Name_                                                             | H / M      | _Audit Reports_                                                        | _Date_                               |
- --------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------- | ------------------------------------ |
- ***Tally ARB Staker***: DAO staking infra                                   | **`0/0`**  | [go to report](./reports/2024-12-tallyArbStaker/)                      | 17/December/2024 - 22/December/2024  |
- ***Collar Core***: Option structured loans                                  | **`0/2`**  | [go to report](./reports/2024-11-collar-core/)                         | 25/November/2024 - 16/December/2024  |
+| Begin month | Project | Category | Provider | Report | Platform |
+| :---: | :--- | :---  | :--- | :---: | :--- |
+| 2024-11 | To be disclosed | Staking | Undisclosed | **To be disclosed** | Solidity / EVM |
+| 2024-10 | To be disclosed | UniswapV4 Router Fork | Undisclosed | **To be disclosed** | Solidity / EVM |
+| 2024-10 | To be disclosed | Crosschain, Governance | Undisclosed | **To be disclosed** | Solidity / EVM |
+| 2024-05 | To be disclosed | L2 Bridge | Undisclosed | **To be disclosed** | Solidity / EVM |
 
 
- ## Collaborations (Contests in a Team)
- _Protocol Name_                                                             | H / M      | _Audit Reports_                                                        | _Date_                               |
- --------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------- | ------------------------------------ |
- ***Tally ARB Staker***: DAO staking infra                                   | **`0/0`**  | [go to report](./reports/2024-12-tallyArbStaker/)                      | 17/December/2024 - 22/December/2024  |
- ***Collar Core***: Option structured loans                                  | **`0/2`**  | [go to report](./reports/2024-11-collar-core/)                         | 25/November/2024 - 16/December/2024  |
 
-</details>
+## Collaborations (Contests in a Team)
+| Begin month | Project | Category | Provider | Report | Platform |
+| :---: | :--- | :---  | :--- | :---: | :--- |
+| 2025-01 | Decent | Crosschain, LZ Integration | Code4rena | [see report](./reports/Contests/2024/01_January/Curves_C4) | Solidity / EVM |
+
+
 
 <hr/>
 <hr/>
@@ -52,14 +74,6 @@ Work in progress, all existing information is from the original template.
 
 # Interesting Findings 🕵️
 
-- [🦄🟡 Medium - User pays extra fees, Sherlock Long Successful Escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/95)
-  
-- [🦄🔵 Low- A low worth $340.12!](./reports/2023-12-the-standard/VulnerabilitiesReport/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
+- [🦄🔴 High - Incorrect integration with Aave - Incorrect usage of the eMode's risk](./reports/Contests/2023/05_May/Index_Sherlock/H-01.md)
 
-- [🐴🟡 Medium - Got us 2nd place. Grief users transferring NFTs leveraging system keepers approvals.](https://cantina.xyz/code/050711ca-a6d1-4fdd-9f94-3816233c1bd5/findings?with_events=false&limit=20&duplicates=true&status=new,disputed,duplicate,confirmed,acknowledged,fixed&created_by=charlesCheerful,kalogerone&severity=medium&finding=294)
-
-- [🐴🟡 Medium - User receives less than mintTo limit, Sherlock Successful escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/97)
-
-- [💰🟡 Medium- Worth $1478.58! Total submitters: 3](./reports/2024-09-stakelink/Medium/Medium4-UpkeepInWithdrawalPoolIsBroken.md)
-
-- [💰🔵 Low- A low worth $865.89!](./reports/2024-10-sablierFlow/Medium/Medium1-ValidERC20sAreNotSupported.md)
+- [🦄🟡 Medium - All supplied WETH to Aave as a deposit by a Strategy will be irrecoverable](./reports/Contests/2024/06_June/BakerFi_C4/M-02.md)
