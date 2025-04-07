@@ -18,7 +18,7 @@
 
 | Contest Name | Date | Tags | Platform | Findings | Rank |
 |:------------:|:--------:|:----:|:----:|:--------:|:----:|
-| SiloV2              | 2025-01 | Lending | Cantina | **To be disclosed** | **[???](https://cantina.xyz/competitions/)** |
+| SiloV2              | 2025-01 | Lending | Cantina | <h5>1H, 2M</h5> | **[8th](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard)** |
 | SecondSwap          | 2024-12 | DEX | Code4rena | <h5>1H, 2M</h5> | - |
 | IdleFinance         | 2024-12 | Lending, ERC4626 | Sherlock | <h5>1H</h5>  | **[3rd 🥉](https://audits.sherlock.xyz/contests/571/leaderboard)** |
 | Concrete            | 2024-11 | ERC4626, DeFi Strategies | Code4rena | <h5>5H, 10M</h5> | **[1st 🥇](https://code4rena.com/audits/2024-11-concrete)** |
@@ -60,11 +60,16 @@
 ## Private Engagements
 | Project Name | Date | Worked With | Report |
 | :---: | :--- | :---  | :--- |
-| Remora        | 2025-02  | CodeHawks  | **To be disclosed** |
-| **NDA**       | 2024-11  | Cyfrin     | **NDA**  |
-| **NDA**       | 2024-10  | Cyfrin     | **NDA**  |
-| **NDA**       | 2024-10  | Cyfrin     | **NDA**  |
-| **NDA**       | 2024-05  | Cyfrin     | **NDA**  |
+| Inception Vaults  | 2025-03  | Bailsec    | **To be disclosed** |
+| Optilend          | 2025-03  | Bailsec    | **To be disclosed** |
+| 0x - SafeGuard    | 2025-03  | Bailsec    | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20SafeGuard%20-%20Final%20Report.pdf)** |
+| Hyperdrive        | 2025-03  | Bailsec    | **To be disclosed** |
+| Remora            | 2025-03  | CodeHawks  | **To be disclosed** |
+| Remora            | 2025-02  | CodeHawks  | **To be disclosed** |
+| **NDA**           | 2024-11  | Cyfrin     | **NDA**  |
+| **NDA**           | 2024-10  | Cyfrin     | **NDA**  |
+| **NDA**           | 2024-10  | Cyfrin     | **NDA**  |
+| **NDA**           | 2024-05  | Cyfrin     | **NDA**  |
 
 
 
