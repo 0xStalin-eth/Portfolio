@@ -3,9 +3,9 @@
 
 # General Stats 📈
 
- | `Total Audits` 🛡️ | `High Risks`  | `Medium Risks` |  `Unique Findings`   |  `Top Placements`                                     |
- | ----------------- | ------------- | -------------- | -------------------- | ----------------------------------------------------- |
- | **_`40+`_**       | **_`45`_**    | **_`55`_**     |  **_`10`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        |
+ | `Contest Audits` 🛡️|`Private Audits` 🛡️| `High Risks`  | `Medium Risks` |  `Unique Findings`   |  `Top Placements`                                     |
+ | -----------------  | ----------------- | ------------- | -------------- | -------------------- | ----------------------------------------------------- | 
+ | **_`40+`_**        | **_`10+`_**       | **_`50`_**    | **_`60`_**     |  **_`10`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        | 
 
 
 <hr/>
@@ -60,6 +60,10 @@
 ## Private Engagements
 | Project Name | Date | Worked With | Report |
 | :---: | :--- | :---  | :--- |
+| Optilend_Providers| 2025-05  | Bailsec    | **To be disclosed** |
+| Atlantis          | 2025-04  | Bailsec    | **To be disclosed** |
+| 1inch Taker Fees  | 2025-04  | Bailsec    | **To be disclosed** |
+| H3rmes Sonic      | 2025-04  | Bailsec    | **To be disclosed** |
 | Inception Vaults  | 2025-03  | Bailsec    | **To be disclosed** |
 | Optilend          | 2025-03  | Bailsec    | **To be disclosed** |
 | 0x - SafeGuard    | 2025-03  | Bailsec    | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20SafeGuard%20-%20Final%20Report.pdf)** |
@@ -87,6 +91,34 @@
 
 # Interesting Findings 🕵️
 
-- [🦄🔴 High - Incorrect integration with Aave - Incorrect usage of the eMode's risk](./reports/Contests/2023/05_May/Index_Sherlock/H-01.md)
+## Lending and DeFi Integrations
+- [🔴 High - Incorrect integration with Aave - Incorrect usage of the eMode's risk](https://solodit.cyfrin.io/issues/h-1-emode-implementation-is-completely-broken-sherlock-none-index-git)
 
-- [🦄🟡 Medium - All supplied WETH to Aave as a deposit by a Strategy will be irrecoverable](./reports/Contests/2024/06_June/BakerFi_C4/M-02.md)
+- [🔴 High - Anybody can buy collateral on behalf of other users without having any allowance using the multiHopBuyCollateral()](https://solodit.cyfrin.io/issues/h-54-anybody-can-buy-collateral-on-behalf-of-other-users-without-having-any-allowance-using-the-multihopbuycollateral-code4rena-tapioca-dao-tapioca-dao-git)
+
+- [🔴 High - User's assets can be stolen when removing them from the Singularity market through the Magnetar contract](https://solodit.cyfrin.io/issues/h-47-users-assets-can-be-stolen-when-removing-them-from-the-singularity-market-through-the-magnetar-contract-code4rena-tapioca-dao-tapioca-dao-git)
+
+- [🟡 Medium - rounding causes investors to not be able to claim their max deposits](https://solodit.cyfrin.io/issues/m-05-investors-claiming-their-maxdeposit-by-using-the-liquiditypooldeposit-will-cause-other-users-to-be-unable-to-claim-their-maxdepositmaxmint-code4rena-centrifuge-centrifuge-git)
+
+- [🟡 Medium - All supplied WETH to Aave as a deposit by a Strategy will be irrecoverable](https://solodit.cyfrin.io/issues/m-01-all-supplied-weth-to-aave-as-a-deposit-by-a-strategy-will-be-irrecoverable-code4rena-bakerfi-bakerfi-git)
+
+- [🟡 Medium - Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode](https://solodit.cyfrin.io/issues/m-04-withdrawing-uncollateralized-deposits-is-possible-even-though-the-position-is-in-liquidation-mode-code4rena-wise-lending-wise-lending-git)
+
+- [🔴 High - Incorrect bad debt accounting can lead to a state where no new incentives can be distributed and protocol fees gets stucked](https://solodit.cyfrin.io/issues/h-03-incorrect-bad-debt-accounting-can-lead-to-a-state-where-the-claimfeesbeneficial-function-is-permanently-bricked-and-no-new-incentives-can-be-distributed-potentially-locking-pending-and-future-protocol-fees-in-the-feemanager-contract-code4rena-wise-lending-wise-lending-git)
+
+
+## Perpetuals
+- [🔴 High - `SettleLongPremium` is incorrectly implemented: premium should be deducted instead of added](https://solodit.cyfrin.io/issues/h-01-settlelongpremium-is-incorrectly-implemented-premium-should-be-deducted-instead-of-added-code4rena-panoptic-panoptic-git)
+
+- [🔴 High - Wrong leg `chunkKey` calculation in `haircutPremia` function](https://solodit.cyfrin.io/issues/m-08-wrong-leg-chunkkey-calculation-in-haircutpremia-function-code4rena-panoptic-panoptic-git)
+
+- [🔴 High - Positive PnL is lost for all parties when liquidating an account, potentially causing that the MarginCollateralRecipient ends up receiving way less USD value than what it could have received.](https://solodit.cyfrin.io/issues/positive-pnl-is-lost-for-all-parties-when-liquidating-an-account-potentially-causing-that-the-margincollateralrecipient-ends-up-receiving-way-less-usd-value-than-what-it-could-have-received-codehawks-zaros-git)
+
+- [🟡 Medium - Liquidating positions of different accounts for the same market on the same block.timestamp uses the same fundingFeePerUnit regardless of the computed MarkPrice based on the size of the position been liqudiated.](https://solodit.cyfrin.io/issues/liquidating-positions-of-different-accounts-for-the-same-market-on-the-same-blocktimestamp-uses-the-same-fundingfeeperunit-regardless-of-the-computed-markprice-based-on-the-size-of-the-position-been-liqudiated-codehawks-zaros-git)
+
+## CrossChain / Multichain
+- [🟡 Medium - If `RootBridgeAgent.lzReceiveNonBlocking` reverts internally, the native token sent by relayer to RootBridgeAgent is left in RootBridgeAgent](https://solodit.cyfrin.io/issues/m-07-if-rootbridgeagentlzreceivenonblocking-reverts-internally-the-native-token-sent-by-relayer-to-rootbridgeagent-is-left-in-rootbridgeagent-code4rena-maia-dao-maia-dao-git)
+
+
+## Business Logic Bugs
+- [🔴 High - Increasing reserves breaks PrizePool accounting](https://solodit.cyfrin.io/issues/h-08-increasing-reserves-breaks-prizepool-accounting-code4rena-pooltogether-pooltogether-git)
