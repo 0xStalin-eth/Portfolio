@@ -5,7 +5,7 @@
 
  | `Contest Audits` 🛡️|`Private Audits` 🛡️| `High Risks`  | `Medium Risks` |  `Unique Findings`   |  `Top Placements`                                     |
  | -----------------  | ----------------- | ------------- | -------------- | -------------------- | ----------------------------------------------------- | 
- | **_`40+`_**        | **_`10+`_**       | **_`50`_**    | **_`60`_**     |  **_`10`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        | 
+ | **_`40+`_**        | **_`15+`_**       | **_`55`_**    | **_`70`_**     |  **_`11`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        | 
 
 
 <hr/>
@@ -58,26 +58,42 @@
 
 
 ## Private Engagements
-| Project Name | Date | Worked With | Report |
-| :---: | :--- | :---  | :--- |
-| Optilend_Providers| 2025-05  | Bailsec    | **To be disclosed** |
-| Atlantis          | 2025-04  | Bailsec    | **To be disclosed** |
-| 1inch Taker Fees  | 2025-04  | Bailsec    | **To be disclosed** |
-| H3rmes Sonic      | 2025-04  | Bailsec    | **To be disclosed** |
-| Inception Vaults  | 2025-03  | Bailsec    | **To be disclosed** |
-| Optilend          | 2025-03  | Bailsec    | **To be disclosed** |
-| 0x - SafeGuard    | 2025-03  | Bailsec    | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20SafeGuard%20-%20Final%20Report.pdf)** |
-| Hyperdrive        | 2025-03  | Bailsec    | **To be disclosed** |
-| Remora            | 2025-03  | CodeHawks  | **To be disclosed** |
-| Remora            | 2025-02  | CodeHawks  | **To be disclosed** |
-| **NDA**           | 2024-11  | Cyfrin     | **NDA**  |
-| **NDA**           | 2024-10  | Cyfrin     | **NDA**  |
-| **NDA**           | 2024-10  | Cyfrin     | **NDA**  |
-| **NDA**           | 2024-05  | Cyfrin     | **NDA**  |
+
+### Bailsec
+
+| Project Name      | Date | Report |
+| :----------:      | :--- | :----- |
+| InceptionVaults II| 2025-05  | **To be disclosed** |
+| MultiSigLabs      | 2025-05  | **To be disclosed** |
+| ListaDAO_Providers| 2025-05  | **[Report](https://github.com/lista-dao/moolah/blob/master/docs/audits/Bailsec-ListaLending-Provider-20250522.pdf)** |
+| Atlantis          | 2025-04  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)** |
+| 1inch Taker Fees  | 2025-04  | **To be disclosed** |
+| H3rmes Sonic      | 2025-04  | **To be disclosed** |
+| Inception Vaults  | 2025-03  | **To be disclosed** |
+| ListaDAO          | 2025-03  | **[Report](https://github.com/lista-dao/moolah/blob/master/docs/audits/Bailsec-ListaLending-AuditReport-20250410.pdf)** |
+| 0x - SafeGuard    | 2025-03  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20SafeGuard%20-%20Final%20Report.pdf)** |
+| Hyperdrive        | 2025-03  | **To be disclosed** |
+
+### Cyfrin
+
+| Project Name      | Date | Report |
+| :----------:      | :--- | :----- |
+| **PaidNetwork**   | 2025-05  | **To be disclosed**  |
+| **NDA**           | 2024-11  | **NDA**  |
+| **NDA**           | 2024-10  | **NDA**  |
+| **NDA**           | 2024-10  | **NDA**  |
+| **NDA**           | 2024-05  | **NDA**  |
+
+### CodeHawks
+| Project Name      | Date | Report |
+| :----------:      | :--- | :----- |
+| Remora            | 2025-03  | **To be disclosed** |
+| Remora            | 2025-02  | **To be disclosed** |
 
 
 
 ## Collaborations (Contests in a Team)
+
 | Contest Name | Date | Tags | Platform | Findings | Rank |
 |:------------:|:--------:|:----:|:----:|:--------:|:----:|
 | Decent       | 2024-01 | Crosschain, LZ Integration | Code4rena | <h5>3H, 2M</h5> | **[3rd 🥉](https://code4rena.com/audits/2024-01-decent)** |
@@ -122,3 +138,6 @@
 
 ## Business Logic Bugs
 - [🔴 High - Increasing reserves breaks PrizePool accounting](https://solodit.cyfrin.io/issues/h-08-increasing-reserves-breaks-prizepool-accounting-code4rena-pooltogether-pooltogether-git)
+
+
+# Articles 📝
