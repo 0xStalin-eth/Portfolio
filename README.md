@@ -65,12 +65,12 @@
 | :----------:      | :--- | :----- |
 | InceptionVaults II| 2025-05  | **To be disclosed** |
 | MultiSigLabs      | 2025-05  | **To be disclosed** |
-| ListaDAO_Providers| 2025-05  | **[Report](https://github.com/lista-dao/moolah/blob/master/docs/audits/Bailsec-ListaLending-Provider-20250522.pdf)** |
+| ListaDAO_Providers| 2025-05  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Update%20-%20Final%20Report.pdf)** |
 | Atlantis          | 2025-04  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)** |
 | 1inch Taker Fees  | 2025-04  | **To be disclosed** |
 | H3rmes Sonic      | 2025-04  | **To be disclosed** |
 | Inception Vaults  | 2025-03  | **To be disclosed** |
-| ListaDAO          | 2025-03  | **[Report](https://github.com/lista-dao/moolah/blob/master/docs/audits/Bailsec-ListaLending-AuditReport-20250410.pdf)** |
+| ListaDAO          | 2025-03  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Final%20Report.pdf)** |
 | 0x - SafeGuard    | 2025-03  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20SafeGuard%20-%20Final%20Report.pdf)** |
 | Hyperdrive        | 2025-03  | **To be disclosed** |
 
