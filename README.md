@@ -5,7 +5,7 @@
 
  | `Contest Audits` 🛡️|`Private Audits` 🛡️| `High Risks`  | `Medium Risks` |  `Unique Findings`   |  `Top Placements`                                     |
  | -----------------  | ----------------- | ------------- | -------------- | -------------------- | ----------------------------------------------------- | 
- | **_`40+`_**        | **_`15+`_**       | **_`55`_**    | **_`70`_**     |  **_`11`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        | 
+ | **_`40+`_**        | **_`15+`_**       | **_`60`_**    | **_`75`_**     |  **_`15`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        | 
 
 
 <hr/>
@@ -141,3 +141,6 @@
 
 
 # Articles 📝
+- [decimalOffset - OZ ERC4626](https://second-garage-698.notion.site/decimalOffset-OZ-ERC4626-16fb8a972b058065a072f430f4484500)
+- [Foundry — Write directly on the variable’s storage slots](https://coinsbench.com/foundry-write-directly-on-the-variables-storage-slots-1f2d05974fce)
+- [Audit Progress Log for a codebase of 5k sloc](https://medium.com/@stalin.macias.eth/audit-progress-log-for-a-codebase-of-5k-sloc-in-a-timeline-of-21-days-671702a716bb)
