@@ -5,7 +5,7 @@
 
  | `Contest Audits` 🛡️|`Private Audits` 🛡️| `High Risks`  | `Medium Risks` |  `Unique Findings`   |  `Top Placements`                                     |
  | -----------------  | ----------------- | ------------- | -------------- | -------------------- | ----------------------------------------------------- | 
- | **_`40+`_**        | **_`15+`_**       | **_`60`_**    | **_`75`_**     |  **_`15`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        | 
+ | **_`40+`_**        | **_`20+`_**       | **_`60`_**    | **_`75`_**     |  **_`15`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        | 
 
 
 <hr/>
@@ -63,11 +63,12 @@
 
 | Project Name      | Date | Report |
 | :----------:      | :--- | :----- |
+| Camelot_OptionSale| 2025-06  | **To be disclosed** |
 | InceptionVaults II| 2025-05  | **To be disclosed** |
 | MultiSigLabs      | 2025-05  | **To be disclosed** |
 | ListaDAO_Providers| 2025-05  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Update%20-%20Final%20Report.pdf)** |
 | Atlantis          | 2025-04  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)** |
-| 1inch Taker Fees  | 2025-04  | **To be disclosed** |
+| 1inch Taker Fees  | 2025-04  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Fee%20Protocol%20-%20Final%20Report.pdf)** |
 | H3rmes Sonic      | 2025-04  | **To be disclosed** |
 | Inception Vaults  | 2025-03  | **To be disclosed** |
 | ListaDAO          | 2025-03  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Final%20Report.pdf)** |
@@ -87,6 +88,7 @@
 ### CodeHawks
 | Project Name      | Date | Report |
 | :----------:      | :--- | :----- |
+| Remora            | 2025-06  | **To be disclosed** |
 | Remora            | 2025-03  | **To be disclosed** |
 | Remora            | 2025-02  | **To be disclosed** |
 
