@@ -145,5 +145,5 @@
 # Articles 📝
 - [decimalOffset - OZ ERC4626](https://second-garage-698.notion.site/decimalOffset-OZ-ERC4626-16fb8a972b058065a072f430f4484500)
 - [Foundry — Write directly on the variable’s storage slots](https://coinsbench.com/foundry-write-directly-on-the-variables-storage-slots-1f2d05974fce)
-- [Get the contract's Storage Layout](https://x.com/Stalin_eth/status/1866563306204594262)
+- [Get the contract's Storage Layout](https://x.com/0xStalin/status/1866563306204594262)
 - [Audit Progress Log for a codebase of 5k sloc](https://medium.com/@stalin.macias.eth/audit-progress-log-for-a-codebase-of-5k-sloc-in-a-timeline-of-21-days-671702a716bb)
