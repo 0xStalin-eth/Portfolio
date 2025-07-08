@@ -63,13 +63,13 @@
 
 | Project Name      | Date     | Category                   | Report |
 | :----------:      | :---     | :---                       | :----- |
-| Camelot_OptionSale| 2025-06  | Fundraising && Options Sales | **To be disclosed** |
+| Camelot_OptionSale| 2025-06  | Fundraising && Options Sales | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Camelot%20-%20Grail%20-%20Final%20Report.pdf)** |
 | InceptionVaults II| 2025-05  | LST and LRT                | **To be disclosed** |
-| GogoPool      | 2025-05      | Staking Avalanche Subnet   | **To be disclosed** |
+| GogoPool          | 2025-05  | Staking Avalanche Subnet   | **To be disclosed** |
 | ListaDAO_Providers| 2025-05  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Update%20-%20Final%20Report.pdf)** |
 | Atlantis          | 2025-04  | Lending && Staking         | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)** |
 | 1inch Taker Fees  | 2025-04  | Fee Mechanism              | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Fee%20Protocol%20-%20Final%20Report.pdf)** |
-| H3rmes Sonic      | 2025-04  | Leverage Lendinf           | **To be disclosed** |
+| H3rmes Sonic      | 2025-04  | Leverage Lending           | **To be disclosed** |
 | Inception Vaults  | 2025-03  | LST and LRT                | **To be disclosed** |
 | ListaDAO          | 2025-03  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Final%20Report.pdf)** |
 | 0x - SafeGuard    | 2025-03  | SafeGuard Module           | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20SafeGuard%20-%20Final%20Report.pdf)** |
@@ -79,11 +79,11 @@
 
 | Project Name      | Date      | Category              | Report |
 | :----------:      | :---      | :---                  | :----- |
-| Remora            | 2025-06   | RWA           | **To be disclosed** |
+| Remora            | 2025-06   | RWA                   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
 | PaidNetwork       | 2025-05   | Fundraising           | **To be disclosed**  |
 | **NDA**           | 2024-11   | Multichain Voting     | **NDA**  |
 | **NDA**           | 2024-10   | UniswapV4 Router Fork | **NDA**  |
-| **NDA**           | 2024-10   | Staking               | **NDA**  |
+| **NDA**           | 2024-10   | Liquid Staking        | **NDA**  |
 | **NDA**           | 2024-05   | L2 Rollup             | **NDA**  |
 
 ### CodeHawks
