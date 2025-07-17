@@ -116,7 +116,7 @@
 - [🔴 High - Increasing reserves breaks PrizePool accounting](https://solodit.cyfrin.io/issues/h-08-increasing-reserves-breaks-prizepool-accounting-code4rena-pooltogether-pooltogether-git)
 - GogoPool - CTF issues
 - Remora - Delegator zeroes out his balance and allows once single delegatee to break payouts for all the rest of delegatees
-- LST Hyperdrive - ...
+- LST Hyperdrive - A drop on the exchange rate for a requestId that has been partially undelegated can DoS the entire redemption system for all the existing requestIds
 
 
 ## Lending and DeFi Integrations
