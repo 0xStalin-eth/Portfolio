@@ -63,34 +63,37 @@
 
 | Project Name      | Date     | Category                   | Report |
 | :----------:      | :---     | :---                       | :----- |
-| Camelot_OptionSale| 2025-06  | Fundraising && Options Sales | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Camelot%20-%20Grail%20-%20Final%20Report.pdf)** |
+| LST Hyperdrive    | 2025-07  | Staking in Hyperdrive      | **To be disclosed** |
+| Camelot_OptionSale| 2025-06  | Launchpad && Options Sales | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Camelot%20-%20Grail%20-%20Final%20Report.pdf)** |
 | InceptionVaults II| 2025-05  | LST and LRT                | **To be disclosed** |
 | GogoPool          | 2025-05  | Staking Avalanche Subnet   | **To be disclosed** |
 | ListaDAO_Providers| 2025-05  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Update%20-%20Final%20Report.pdf)** |
-| Atlantis          | 2025-04  | Lending && Staking         | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)** |
+| Atlantis          | 2025-04  | Launchpad                  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)** |
 | 1inch Taker Fees  | 2025-04  | Fee Mechanism              | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Fee%20Protocol%20-%20Final%20Report.pdf)** |
 | H3rmes Sonic      | 2025-04  | Leverage Lending           | **To be disclosed** |
-| Inception Vaults  | 2025-03  | LST and LRT                | **To be disclosed** |
+| InceptionVaults   | 2025-03  | LST and LRT                | **To be disclosed** |
 | ListaDAO          | 2025-03  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Final%20Report.pdf)** |
 | 0x - SafeGuard    | 2025-03  | SafeGuard Module           | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20SafeGuard%20-%20Final%20Report.pdf)** |
 | Hyperdrive        | 2025-03  | Lending                    | **To be disclosed** |
 
 ### Cyfrin
 
-| Project Name      | Date      | Category              | Report |
-| :----------:      | :---      | :---                  | :----- |
-| Remora            | 2025-06   | RWA                   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
-| PaidNetwork       | 2025-05   | Fundraising           | **To be disclosed**  |
-| **NDA**           | 2024-11   | Multichain Voting     | **NDA**  |
-| **NDA**           | 2024-10   | UniswapV4 Router Fork | **NDA**  |
-| **NDA**           | 2024-10   | Liquid Staking        | **NDA**  |
-| **NDA**           | 2024-05   | L2 Rollup             | **NDA**  |
+| Project Name      | Date      | Category                  | Report |
+| :----------:      | :---      | :---                      | :----- |
+| Hooked            | 2025-07   | ----------                | **To be disclosed**  |
+| Finance_VII       | 2025-07   | UniV4 and Euler Integration | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf)**  |
+| Remora            | 2025-06   | RWA                       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
+| PaidNetwork       | 2025-05   | Launchpad                 | **To be disclosed**  |
+| **NDA**           | 2024-11   | Multichain Voting         | **NDA**  |
+| **NDA**           | 2024-10   | UniswapV4 Router Fork     | **NDA**  |
+| **NDA**           | 2024-10   | Liquid Staking            | **NDA**  |
+| **NDA**           | 2024-05   | L2 Rollup                 | **NDA**  |
 
 ### CodeHawks
-| Project Name      | Date      | Category      | Report |
-| :----------:      | :---      | :---          | :----- |
-| Remora            | 2025-03   | RWA           | **To be disclosed** |
-| Remora            | 2025-02   | RWA           | **To be disclosed** |
+| Project Name      | Date      | Category                  | Report |
+| :----------:      | :---      | :---                      | :----- |
+| Remora            | 2025-03   | RWA                       | **To be disclosed** |
+| Remora            | 2025-02   | RWA                       | **To be disclosed** |
 
 
 
@@ -109,7 +112,18 @@
 
 # Interesting Findings 🕵️
 
+## Business Logic Bugs
+- [🔴 High - Increasing reserves breaks PrizePool accounting](https://solodit.cyfrin.io/issues/h-08-increasing-reserves-breaks-prizepool-accounting-code4rena-pooltogether-pooltogether-git)
+- GogoPool - CTF issues
+- Remora - Delegator zeroes out his balance and allows once single delegatee to break payouts for all the rest of delegatees
+- LST Hyperdrive - A drop on the exchange rate for a requestId that has been partially undelegated can DoS the entire redemption system for all the existing requestIds
+
+
 ## Lending and DeFi Integrations
+- Finance VII - Fees can be stolen from partially unwrapped UniV4 positions
+
+- [🔴 High - Incorrect bad debt accounting can lead to a state where no new incentives can be distributed and protocol fees gets stucked](https://solodit.cyfrin.io/issues/h-03-incorrect-bad-debt-accounting-can-lead-to-a-state-where-the-claimfeesbeneficial-function-is-permanently-bricked-and-no-new-incentives-can-be-distributed-potentially-locking-pending-and-future-protocol-fees-in-the-feemanager-contract-code4rena-wise-lending-wise-lending-git)
+
 - [🔴 High - Incorrect integration with Aave - Incorrect usage of the eMode's risk](https://solodit.cyfrin.io/issues/h-1-emode-implementation-is-completely-broken-sherlock-none-index-git)
 
 - [🔴 High - Anybody can buy collateral on behalf of other users without having any allowance using the multiHopBuyCollateral()](https://solodit.cyfrin.io/issues/h-54-anybody-can-buy-collateral-on-behalf-of-other-users-without-having-any-allowance-using-the-multihopbuycollateral-code4rena-tapioca-dao-tapioca-dao-git)
@@ -122,8 +136,6 @@
 
 - [🟡 Medium - Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode](https://solodit.cyfrin.io/issues/m-04-withdrawing-uncollateralized-deposits-is-possible-even-though-the-position-is-in-liquidation-mode-code4rena-wise-lending-wise-lending-git)
 
-- [🔴 High - Incorrect bad debt accounting can lead to a state where no new incentives can be distributed and protocol fees gets stucked](https://solodit.cyfrin.io/issues/h-03-incorrect-bad-debt-accounting-can-lead-to-a-state-where-the-claimfeesbeneficial-function-is-permanently-bricked-and-no-new-incentives-can-be-distributed-potentially-locking-pending-and-future-protocol-fees-in-the-feemanager-contract-code4rena-wise-lending-wise-lending-git)
-
 
 ## Perpetuals
 - [🔴 High - `SettleLongPremium` is incorrectly implemented: premium should be deducted instead of added](https://solodit.cyfrin.io/issues/h-01-settlelongpremium-is-incorrectly-implemented-premium-should-be-deducted-instead-of-added-code4rena-panoptic-panoptic-git)
@@ -134,12 +146,9 @@
 
 - [🟡 Medium - Liquidating positions of different accounts for the same market on the same block.timestamp uses the same fundingFeePerUnit regardless of the computed MarkPrice based on the size of the position been liqudiated.](https://solodit.cyfrin.io/issues/liquidating-positions-of-different-accounts-for-the-same-market-on-the-same-blocktimestamp-uses-the-same-fundingfeeperunit-regardless-of-the-computed-markprice-based-on-the-size-of-the-position-been-liqudiated-codehawks-zaros-git)
 
+
 ## CrossChain / Multichain
 - [🟡 Medium - If `RootBridgeAgent.lzReceiveNonBlocking` reverts internally, the native token sent by relayer to RootBridgeAgent is left in RootBridgeAgent](https://solodit.cyfrin.io/issues/m-07-if-rootbridgeagentlzreceivenonblocking-reverts-internally-the-native-token-sent-by-relayer-to-rootbridgeagent-is-left-in-rootbridgeagent-code4rena-maia-dao-maia-dao-git)
-
-
-## Business Logic Bugs
-- [🔴 High - Increasing reserves breaks PrizePool accounting](https://solodit.cyfrin.io/issues/h-08-increasing-reserves-breaks-prizepool-accounting-code4rena-pooltogether-pooltogether-git)
 
 
 # Articles 📝
