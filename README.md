@@ -3,9 +3,9 @@
 
 # General Stats 📈
 
- | `Contest Audits` 🛡️|`Private Audits` 🛡️| `High Risks`  | `Medium Risks` |  `Unique Findings`   |  `Top Placements`                                     |
- | -----------------  | ----------------- | ------------- | -------------- | -------------------- | ----------------------------------------------------- | 
- | **_`40+`_**        | **_`20+`_**       | **_`60`_**    | **_`75`_**     |  **_`15`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        | 
+| `Contest Audits` 🛡️|`Private Audits` 🛡️| `High Risks`  | `Medium Risks` |  `Unique Findings`   |  `Top Placements`                                     |
+| -----------------  | ----------------- | ------------- | -------------- | -------------------- | ----------------------------------------------------- | 
+| **_`40+`_**        | **_`20+`_**       | **_`65`_**    | **_`75`_**     |  **_`20`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        | 
 
 
 <hr/>
@@ -65,29 +65,30 @@
 | :----------:      | :---     | :---                       | :----- |
 | LST Hyperdrive    | 2025-07  | Staking in Hyperdrive      | **To be disclosed** |
 | Camelot_OptionSale| 2025-06  | Launchpad && Options Sales | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Camelot%20-%20Grail%20-%20Final%20Report.pdf)** |
-| InceptionVaults II| 2025-05  | LST and LRT                | **To be disclosed** |
+| InceptionVaults II| 2025-05  | LST and LRT                | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20InceptionLRT%20-%20Vaults%20-%20Final%20Report.pdf)** |
 | GogoPool          | 2025-05  | Staking Avalanche Subnet   | **To be disclosed** |
 | ListaDAO_Providers| 2025-05  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Update%20-%20Final%20Report.pdf)** |
 | Atlantis          | 2025-04  | Launchpad                  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)** |
 | 1inch Taker Fees  | 2025-04  | Fee Mechanism              | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Fee%20Protocol%20-%20Final%20Report.pdf)** |
 | H3rmes Sonic      | 2025-04  | Leverage Lending           | **To be disclosed** |
-| InceptionVaults   | 2025-03  | LST and LRT                | **To be disclosed** |
+| InceptionVaults   | 2025-03  | LST and LRT                | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20InceptionLRT%20-%20Vaults%20-%20Final%20Report.pdf)** |
 | ListaDAO          | 2025-03  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Final%20Report.pdf)** |
 | 0x - SafeGuard    | 2025-03  | SafeGuard Module           | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20SafeGuard%20-%20Final%20Report.pdf)** |
-| Hyperdrive        | 2025-03  | Lending                    | **To be disclosed** |
+| Hyperdrive Lending| 2025-03  | Lending                    | **To be disclosed** |
 
 ### Cyfrin
 
-| Project Name      | Date      | Category                  | Report |
-| :----------:      | :---      | :---                      | :----- |
-| Hooked            | 2025-07   | ----------                | **To be disclosed**  |
-| Finance_VII       | 2025-07   | UniV4 and Euler Integration | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf)**  |
-| Remora            | 2025-06   | RWA                       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
-| PaidNetwork       | 2025-05   | Launchpad                 | **To be disclosed**  |
-| **NDA**           | 2024-11   | Multichain Voting         | **NDA**  |
-| **NDA**           | 2024-10   | UniswapV4 Router Fork     | **NDA**  |
-| **NDA**           | 2024-10   | Liquid Staking            | **NDA**  |
-| **NDA**           | 2024-05   | L2 Rollup                 | **NDA**  |
+| Project Name      | Date      | Category                              | Report |
+| :----------:      | :---      | :---                                  | :----- |
+| STBL              | 2025-08   | Yield Tokenization / StableCoin       | **To be disclosed**  |
+| Hooked            | 2025-07   | UniV4 Hooks, ve(3,3)                  | **To be disclosed**  |
+| Finance_VII       | 2025-07   | UniV4 and Euler Integration           | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf)**  |
+| Remora            | 2025-06   | RWA                                   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
+| PaidNetwork       | 2025-05   | Launchpad                             | **To be disclosed**  |
+| **NDA**           | 2024-11   | Multichain Voting                     | **NDA**  |
+| **NDA**           | 2024-10   | UniswapV4 Router Fork                 | **NDA**  |
+| **NDA**           | 2024-10   | Liquid Staking                        | **NDA**  |
+| **NDA**           | 2024-05   | L2 Rollup                             | **NDA**  |
 
 ### CodeHawks
 | Project Name      | Date      | Category                  | Report |
@@ -113,43 +114,46 @@
 # Interesting Findings 🕵️
 
 ## Business Logic Bugs
-- [🔴 High - Increasing reserves breaks PrizePool accounting](https://solodit.cyfrin.io/issues/h-08-increasing-reserves-breaks-prizepool-accounting-code4rena-pooltogether-pooltogether-git)
-- GogoPool - CTF issues
-- Remora - Delegator zeroes out his balance and allows once single delegatee to break payouts for all the rest of delegatees
-- LST Hyperdrive - A drop on the exchange rate for a requestId that has been partially undelegated can DoS the entire redemption system for all the existing requestIds
+- [🔴 High - Hooked - Gauges cannot receive their share of Hooked emissions due to incorrect reference to the new epoch timestamp during notification and distribution]()
+- [🔴 High - Hooked - Blacklisting can be circumvented by merging into a non-blacklisted token ID]()
+- [🔴 High - Hooked - Voters can receive fewer incentives than expected when recasting their votes of multiple veNFTs to the same pool in a subsequent epoch due to their MultiIncentives balance being overwritten]()
+- [🔴 High - GogoPool - CTF issues]()
+- [🔴 High - LST Hyperdrive - A drop on the exchange rate ...]()
+- [🔴 High - Remora - A single holder can grief the payouts of all holders forwarding their payouts to the same forwarder](https://solodit.cyfrin.io/issues/a-single-holder-can-grief-the-payouts-of-all-holders-forwarding-their-payouts-to-the-same-forwarder-cyfrin-none-remora-pledge-markdown)
+- [🔴 High - PoolTogether - Increasing reserves breaks PrizePool accounting](https://solodit.cyfrin.io/issues/h-08-increasing-reserves-breaks-prizepool-accounting-code4rena-pooltogether-pooltogether-git)
+
+## Uniswap - Integrations, Hooks and Forks
+### UniV4
+- [🔴 High - FinanceVII - Fees can be stolen from partially unwrapped UniV4 positions](https://solodit.cyfrin.io/issues/fees-can-be-stolen-from-partially-unwrapped-uniswapv4wrapper-positions-cyfrin-none-vii-markdown)
+- [🔴 High - Hooked - Uniswap V4 swap fee handling is completely broken due to dynamic LP fee override not being applied as intended, overcharging swappers and breaking the incentive mechanism]()
+- [🔴 High - Hooked - New liquidity positions can claim the incentives emission growth since the first emission of the corresponding pool due to uninitialized state]()
+
+### UniV3
+- [🔴 High - Hooked - getEmissionGrowthInside calculations based on Uniswap V3 fee growth calculations will revert when underflow/overflow occurs due to missing unchecked block]()
 
 
 ## Lending and DeFi Integrations
-- Finance VII - Fees can be stolen from partially unwrapped UniV4 positions
-
 - [🔴 High - Incorrect bad debt accounting can lead to a state where no new incentives can be distributed and protocol fees gets stucked](https://solodit.cyfrin.io/issues/h-03-incorrect-bad-debt-accounting-can-lead-to-a-state-where-the-claimfeesbeneficial-function-is-permanently-bricked-and-no-new-incentives-can-be-distributed-potentially-locking-pending-and-future-protocol-fees-in-the-feemanager-contract-code4rena-wise-lending-wise-lending-git)
-
 - [🔴 High - Incorrect integration with Aave - Incorrect usage of the eMode's risk](https://solodit.cyfrin.io/issues/h-1-emode-implementation-is-completely-broken-sherlock-none-index-git)
-
 - [🔴 High - Anybody can buy collateral on behalf of other users without having any allowance using the multiHopBuyCollateral()](https://solodit.cyfrin.io/issues/h-54-anybody-can-buy-collateral-on-behalf-of-other-users-without-having-any-allowance-using-the-multihopbuycollateral-code4rena-tapioca-dao-tapioca-dao-git)
-
 - [🔴 High - User's assets can be stolen when removing them from the Singularity market through the Magnetar contract](https://solodit.cyfrin.io/issues/h-47-users-assets-can-be-stolen-when-removing-them-from-the-singularity-market-through-the-magnetar-contract-code4rena-tapioca-dao-tapioca-dao-git)
-
 - [🟡 Medium - rounding causes investors to not be able to claim their max deposits](https://solodit.cyfrin.io/issues/m-05-investors-claiming-their-maxdeposit-by-using-the-liquiditypooldeposit-will-cause-other-users-to-be-unable-to-claim-their-maxdepositmaxmint-code4rena-centrifuge-centrifuge-git)
-
 - [🟡 Medium - All supplied WETH to Aave as a deposit by a Strategy will be irrecoverable](https://solodit.cyfrin.io/issues/m-01-all-supplied-weth-to-aave-as-a-deposit-by-a-strategy-will-be-irrecoverable-code4rena-bakerfi-bakerfi-git)
-
 - [🟡 Medium - Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode](https://solodit.cyfrin.io/issues/m-04-withdrawing-uncollateralized-deposits-is-possible-even-though-the-position-is-in-liquidation-mode-code4rena-wise-lending-wise-lending-git)
 
 
 ## Perpetuals
 - [🔴 High - `SettleLongPremium` is incorrectly implemented: premium should be deducted instead of added](https://solodit.cyfrin.io/issues/h-01-settlelongpremium-is-incorrectly-implemented-premium-should-be-deducted-instead-of-added-code4rena-panoptic-panoptic-git)
-
 - [🔴 High - Wrong leg `chunkKey` calculation in `haircutPremia` function](https://solodit.cyfrin.io/issues/m-08-wrong-leg-chunkkey-calculation-in-haircutpremia-function-code4rena-panoptic-panoptic-git)
-
 - [🔴 High - Positive PnL is lost for all parties when liquidating an account, potentially causing that the MarginCollateralRecipient ends up receiving way less USD value than what it could have received.](https://solodit.cyfrin.io/issues/positive-pnl-is-lost-for-all-parties-when-liquidating-an-account-potentially-causing-that-the-margincollateralrecipient-ends-up-receiving-way-less-usd-value-than-what-it-could-have-received-codehawks-zaros-git)
-
 - [🟡 Medium - Liquidating positions of different accounts for the same market on the same block.timestamp uses the same fundingFeePerUnit regardless of the computed MarkPrice based on the size of the position been liqudiated.](https://solodit.cyfrin.io/issues/liquidating-positions-of-different-accounts-for-the-same-market-on-the-same-blocktimestamp-uses-the-same-fundingfeeperunit-regardless-of-the-computed-markprice-based-on-the-size-of-the-position-been-liqudiated-codehawks-zaros-git)
 
 
 ## CrossChain / Multichain
-- [🟡 Medium - If `RootBridgeAgent.lzReceiveNonBlocking` reverts internally, the native token sent by relayer to RootBridgeAgent is left in RootBridgeAgent](https://solodit.cyfrin.io/issues/m-07-if-rootbridgeagentlzreceivenonblocking-reverts-internally-the-native-token-sent-by-relayer-to-rootbridgeagent-is-left-in-rootbridgeagent-code4rena-maia-dao-maia-dao-git)
+- [🟡 Medium - Maia - If `RootBridgeAgent.lzReceiveNonBlocking` reverts internally, the native token sent by relayer to RootBridgeAgent is left in RootBridgeAgent](https://solodit.cyfrin.io/issues/m-07-if-rootbridgeagentlzreceivenonblocking-reverts-internally-the-native-token-sent-by-relayer-to-rootbridgeagent-is-left-in-rootbridgeagent-code4rena-maia-dao-maia-dao-git)
 
+## Miscellaneous
+- [🔴 High - Hooked - Contracts intended to be upgradeable lack upgrade capability]()
 
 # Articles 📝
 - [decimalOffset - OZ ERC4626](https://second-garage-698.notion.site/decimalOffset-OZ-ERC4626-16fb8a972b058065a072f430f4484500)
