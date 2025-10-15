@@ -13,7 +13,56 @@
 
 # Audits List 📓
 
-## Public Competitions
+## Private Engagements
+
+### Cyfrin - Lead Security Researcher (August 2025 - Present)
+| Project Name          | Date      | Category                              | Report |
+| :----------:          | :---      | :---                                  | :----- |
+| STBL                  | 2025-08   | Yield Tokenization / StableCoin       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-stbl-v2.0.pdf)**  |
+| Securitize - DSToken  | 2025-09   | TradFi                                | **To be disclosed**  |
+| Stata Tranches        | 2025-09   | Yield Tokenization / Vault Tranches   | **To be disclosed**  |
+| Remora Dynamic Tokens | 2025-10   | RWA                                   | **To be disclosed**  |
+| STBL MFS              | 2025-10   | Staking / Airdrop                     | **To be disclosed**  |
+| Linea Burn Mechanism  | 2025-10   |                                       | **To be disclosed**  |
+|                       | 2025-     |                                       | **To be disclosed**  |
+
+### Cyfrin - Contractor (2024-2025)
+
+| Project Name      | Date      | Category                              | Report |
+| :----------:      | :---      | :---                                  | :----- |
+| Hooked            | 2025-07   | UniV4 Hooks, ve(3,3)                  | **To be disclosed**  |
+| Finance_VII       | 2025-07   | UniV4 Hooks and Euler Integration     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf)**  |
+| Remora            | 2025-06   | RWA                                   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
+| PaidNetwork       | 2025-05   | Launchpad                             | **To be disclosed**  |
+| **NDA**           | 2024-11   | Multichain Voting                     | **NDA**  |
+| **NDA**           | 2024-10   | UniswapV4 Router Fork                 | **NDA**  |
+| **NDA**           | 2024-10   | LST                                   | **NDA**  |
+| **NDA**           | 2024-05   | L2 Rollup                             | **NDA**  |
+
+### Bailsec - Contractor (2025)
+
+| Project Name      | Date     | Category                   | Report |
+| :----------:      | :---     | :---                       | :----- |
+| LST Hyperdrive    | 2025-07  | Staking in Hyperdrive      | **To be disclosed** |
+| Camelot_OptionSale| 2025-06  | Launchpad && Options Sales | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Camelot%20-%20Grail%20-%20Final%20Report.pdf)** |
+| InceptionVaults II| 2025-05  | LST and LRT                | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20InceptionLRT%20-%20Vaults%20-%20Final%20Report.pdf)** |
+| GogoPool          | 2025-05  | Staking Avalanche Subnet   | **To be disclosed** |
+| ListaDAO_Providers| 2025-05  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Update%20-%20Final%20Report.pdf)** |
+| Atlantis          | 2025-04  | Launchpad                  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)** |
+| 1inch Taker Fees  | 2025-04  | Fee Mechanism              | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Fee%20Protocol%20-%20Final%20Report.pdf)** |
+| H3rmes Sonic      | 2025-04  | Leverage Lending           | **To be disclosed** |
+| InceptionVaults   | 2025-03  | LST and LRT                | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20InceptionLRT%20-%20Vaults%20-%20Final%20Report.pdf)** |
+| ListaDAO          | 2025-03  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Final%20Report.pdf)** |
+| 0x - SafeGuard    | 2025-03  | SafeGuard Module           | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20SafeGuard%20-%20Final%20Report.pdf)** |
+| Hyperdrive Lending| 2025-03  | Lending                    | **To be disclosed** |
+
+### CodeHawks - Eagle (2025)
+| Project Name      | Date      | Category                  | Report |
+| :----------:      | :---      | :---                      | :----- |
+| Remora            | 2025-03   | RWA                       | **To be disclosed** |
+| Remora            | 2025-02   | RWA                       | **To be disclosed** |
+
+## Public Competitions - (2023 - 2024)
 (from **most recent** to **oldest**)
 
 | Contest Name | Date | Category | Platform | Findings | Rank |
@@ -57,53 +106,11 @@
 | JoJo Exchange       | 2023-04 | DEX | Sherlock | <h5>1M</h5> | - |
 
 
-## Private Engagements
-
-### Bailsec
-
-| Project Name      | Date     | Category                   | Report |
-| :----------:      | :---     | :---                       | :----- |
-| LST Hyperdrive    | 2025-07  | Staking in Hyperdrive      | **To be disclosed** |
-| Camelot_OptionSale| 2025-06  | Launchpad && Options Sales | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Camelot%20-%20Grail%20-%20Final%20Report.pdf)** |
-| InceptionVaults II| 2025-05  | LST and LRT                | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20InceptionLRT%20-%20Vaults%20-%20Final%20Report.pdf)** |
-| GogoPool          | 2025-05  | Staking Avalanche Subnet   | **To be disclosed** |
-| ListaDAO_Providers| 2025-05  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Update%20-%20Final%20Report.pdf)** |
-| Atlantis          | 2025-04  | Launchpad                  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)** |
-| 1inch Taker Fees  | 2025-04  | Fee Mechanism              | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Fee%20Protocol%20-%20Final%20Report.pdf)** |
-| H3rmes Sonic      | 2025-04  | Leverage Lending           | **To be disclosed** |
-| InceptionVaults   | 2025-03  | LST and LRT                | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20InceptionLRT%20-%20Vaults%20-%20Final%20Report.pdf)** |
-| ListaDAO          | 2025-03  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Final%20Report.pdf)** |
-| 0x - SafeGuard    | 2025-03  | SafeGuard Module           | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20SafeGuard%20-%20Final%20Report.pdf)** |
-| Hyperdrive Lending| 2025-03  | Lending                    | **To be disclosed** |
-
-### Cyfrin
-
-| Project Name      | Date      | Category                              | Report |
-| :----------:      | :---      | :---                                  | :----- |
-| STBL              | 2025-08   | Yield Tokenization / StableCoin       | **To be disclosed**  |
-| Hooked            | 2025-07   | UniV4 Hooks, ve(3,3)                  | **To be disclosed**  |
-| Finance_VII       | 2025-07   | UniV4 and Euler Integration           | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf)**  |
-| Remora            | 2025-06   | RWA                                   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
-| PaidNetwork       | 2025-05   | Launchpad                             | **To be disclosed**  |
-| **NDA**           | 2024-11   | Multichain Voting                     | **NDA**  |
-| **NDA**           | 2024-10   | UniswapV4 Router Fork                 | **NDA**  |
-| **NDA**           | 2024-10   | Liquid Staking                        | **NDA**  |
-| **NDA**           | 2024-05   | L2 Rollup                             | **NDA**  |
-
-### CodeHawks
-| Project Name      | Date      | Category                  | Report |
-| :----------:      | :---      | :---                      | :----- |
-| Remora            | 2025-03   | RWA                       | **To be disclosed** |
-| Remora            | 2025-02   | RWA                       | **To be disclosed** |
-
-
-
-## Collaborations (Contests in a Team)
+## Collaborations (Contests in a Team) - (2024)
 
 | Contest Name | Date | Category | Platform | Findings | Rank |
 |:------------:|:--------:|:----:|:----:|:--------:|:----:|
 | Decent       | 2024-01 | Crosschain, LZ Integration | Code4rena | <h5>3H, 2M</h5> | **[3rd 🥉](https://code4rena.com/audits/2024-01-decent)** |
-
 
 
 <hr/>
