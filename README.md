@@ -18,14 +18,13 @@
 ### Cyfrin - Lead Security Researcher (August 2025 - Present)
 | Project Name          | Date      | Category                              | Report |
 | :----------:          | :---      | :---                                  | :----- |
-| STBL                  | 2025-08   | Yield Tokenization / StableCoin       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-stbl-v2.0.pdf)**  |
-| Securitize - DSToken  | 2025-09   | TradFi                                | **PRIVATE**  |
-| Stata Tranches        | 2025-09   | Yield Tokenization / Vault Tranches   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf)**  |
-| Remora Dynamic Tokens | 2025-10   | RWA                                   | **To be disclosed**  |
-| STBL MFS              | 2025-10   | Staking / Airdrop                     | **To be disclosed**  |
-| Linea Burn Mechanism  | 2025-10   | Rollup Fee Mechanism                  | **To be disclosed**  |
 |                       | 2025-11   |                                       | **To be disclosed**  |
-|                       | 2025-   |                                       | **To be disclosed**  |
+| Linea Burn Mechanism  | 2025-10   | Rollup Fee Mechanism                  | **To be disclosed**  |
+| STBL MFS              | 2025-10   | Staking / Airdrop                     | **To be disclosed**  |
+| Remora Dynamic Tokens | 2025-10   | RWA                                   | **To be disclosed**  |
+| Stata Tranches        | 2025-09   | Yield Tokenization / Vault Tranches   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf)**  |
+| Securitize - DSToken  | 2025-09   | TradFi                                | **PRIVATE**  |
+| STBL                  | 2025-08   | Yield Tokenization / StableCoin       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-stbl-v2.0.pdf)**  |
 
 ### Cyfrin - Contractor (2024-2025)
 
@@ -105,7 +104,8 @@
 | USSD                | 2023-04 | StableCoin | Sherlock | <h5>4H, 1M</h5> | - |
 | Juicebox Buyback    | 2023-04 | Funding | Code4rena | <h5>1M</h5> | - |
 | JoJo Exchange       | 2023-04 | DEX | Sherlock | <h5>1M</h5> | - |
-
+| Frankencoin         | 2023-03 | Stablecoin | Code4rena | <h5>2M</h5> | - |
+| Rubicon             | 2023-03 | DEX | Code4rena | <h5>1H, 1M</h5> | - |
 
 ## Collaborations (Contests in a Team) - (2024)
 
