@@ -3,9 +3,9 @@
 
 # General Stats 📈
 
-| `Contest Audits` 🛡️|`Private Audits` 🛡️| `High Risks`  | `Medium Risks` |  `Unique Findings`   |  `Top Placements`                                     |
-| -----------------  | ----------------- | ------------- | -------------- | -------------------- | ----------------------------------------------------- | 
-| **_`40+`_**        | **_`20+`_**       | **_`65`_**    | **_`75`_**     |  **_`20`_**          |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        | 
+| `Contest Audits` 🛡️|`Private Audits` 🛡️|  `Top Placements`                                     |
+| -----------------  | ----------------- | ----------------------------------------------------- | 
+| **_`40+`_**        | **_`30+`_**       |  **_`2x`_**  🏅 **_`2x`_**  🥈  **_`4x`_**  🥉        | 
 
 
 <hr/>
@@ -19,21 +19,22 @@
 | Project Name          | Date      | Category                              | Report |
 | :----------:          | :---      | :---                                  | :----- |
 | STBL                  | 2025-08   | Yield Tokenization / StableCoin       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-stbl-v2.0.pdf)**  |
-| Securitize - DSToken  | 2025-09   | TradFi                                | **To be disclosed**  |
-| Stata Tranches        | 2025-09   | Yield Tokenization / Vault Tranches   | **To be disclosed**  |
+| Securitize - DSToken  | 2025-09   | TradFi                                | **PRIVATE**  |
+| Stata Tranches        | 2025-09   | Yield Tokenization / Vault Tranches   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf)**  |
 | Remora Dynamic Tokens | 2025-10   | RWA                                   | **To be disclosed**  |
 | STBL MFS              | 2025-10   | Staking / Airdrop                     | **To be disclosed**  |
-| Linea Burn Mechanism  | 2025-10   |                                       | **To be disclosed**  |
-|                       | 2025-     |                                       | **To be disclosed**  |
+| Linea Burn Mechanism  | 2025-10   | Rollup Fee Mechanism                  | **To be disclosed**  |
+|                       | 2025-11   |                                       | **To be disclosed**  |
+|                       | 2025-   |                                       | **To be disclosed**  |
 
 ### Cyfrin - Contractor (2024-2025)
 
 | Project Name      | Date      | Category                              | Report |
 | :----------:      | :---      | :---                                  | :----- |
-| Hooked            | 2025-07   | UniV4 Hooks, ve(3,3)                  | **To be disclosed**  |
+| Hooked            | 2025-07   | UniV4 Hooks, ve(3,3)                  | **PRIVATE**  |
 | Finance_VII       | 2025-07   | UniV4 Hooks and Euler Integration     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf)**  |
 | Remora            | 2025-06   | RWA                                   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
-| PaidNetwork       | 2025-05   | Launchpad                             | **To be disclosed**  |
+| PaidNetwork       | 2025-05   | Launchpad                             | **PRIVATE**  |
 | **NDA**           | 2024-11   | Multichain Voting                     | **NDA**  |
 | **NDA**           | 2024-10   | UniswapV4 Router Fork                 | **NDA**  |
 | **NDA**           | 2024-10   | LST                                   | **NDA**  |
@@ -43,24 +44,24 @@
 
 | Project Name      | Date     | Category                   | Report |
 | :----------:      | :---     | :---                       | :----- |
-| LST Hyperdrive    | 2025-07  | Staking in Hyperdrive      | **To be disclosed** |
+| LST Hyperdrive    | 2025-07  | Staking in Hyperdrive      | **PRIVATE** |
 | Camelot_OptionSale| 2025-06  | Launchpad && Options Sales | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Camelot%20-%20Grail%20-%20Final%20Report.pdf)** |
 | InceptionVaults II| 2025-05  | LST and LRT                | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20InceptionLRT%20-%20Vaults%20-%20Final%20Report.pdf)** |
-| GogoPool          | 2025-05  | Staking Avalanche Subnet   | **To be disclosed** |
+| GogoPool          | 2025-05  | Staking Avalanche Subnet   | **PRIVATE** |
 | ListaDAO_Providers| 2025-05  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Update%20-%20Final%20Report.pdf)** |
 | Atlantis          | 2025-04  | Launchpad                  | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)** |
 | 1inch Taker Fees  | 2025-04  | Fee Mechanism              | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%201inch%20-%20Fee%20Protocol%20-%20Final%20Report.pdf)** |
-| H3rmes Sonic      | 2025-04  | Leverage Lending           | **To be disclosed** |
+| H3rmes Sonic      | 2025-04  | Leverage Lending           | **PRIVATE** |
 | InceptionVaults   | 2025-03  | LST and LRT                | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20InceptionLRT%20-%20Vaults%20-%20Final%20Report.pdf)** |
 | ListaDAO          | 2025-03  | Lending (Morpho Fork)      | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Lista%20DAO%20-%20Lista%20Lending%20-%20Final%20Report.pdf)** |
 | 0x - SafeGuard    | 2025-03  | SafeGuard Module           | **[Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20SafeGuard%20-%20Final%20Report.pdf)** |
-| Hyperdrive Lending| 2025-03  | Lending                    | **To be disclosed** |
+| Hyperdrive Lending| 2025-03  | Lending                    | **PRIVATE** |
 
 ### CodeHawks - Eagle (2025)
 | Project Name      | Date      | Category                  | Report |
 | :----------:      | :---      | :---                      | :----- |
-| Remora            | 2025-03   | RWA                       | **To be disclosed** |
-| Remora            | 2025-02   | RWA                       | **To be disclosed** |
+| Remora            | 2025-03   | RWA                       | **PRIVATE** |
+| Remora            | 2025-02   | RWA                       | **PRIVATE** |
 
 ## Public Competitions - (2023 - 2024)
 (from **most recent** to **oldest**)
@@ -128,15 +129,7 @@
 - [🔴 High - LST Hyperdrive - A drop on the exchange rate ...]()
 - [🔴 High - Remora - A single holder can grief the payouts of all holders forwarding their payouts to the same forwarder](https://solodit.cyfrin.io/issues/a-single-holder-can-grief-the-payouts-of-all-holders-forwarding-their-payouts-to-the-same-forwarder-cyfrin-none-remora-pledge-markdown)
 - [🔴 High - PoolTogether - Increasing reserves breaks PrizePool accounting](https://solodit.cyfrin.io/issues/h-08-increasing-reserves-breaks-prizepool-accounting-code4rena-pooltogether-pooltogether-git)
-
-## Uniswap - Integrations, Hooks and Forks
-### UniV4
-- [🔴 High - FinanceVII - Fees can be stolen from partially unwrapped UniV4 positions](https://solodit.cyfrin.io/issues/fees-can-be-stolen-from-partially-unwrapped-uniswapv4wrapper-positions-cyfrin-none-vii-markdown)
-- [🔴 High - Hooked - Uniswap V4 swap fee handling is completely broken due to dynamic LP fee override not being applied as intended, overcharging swappers and breaking the incentive mechanism]()
-- [🔴 High - Hooked - New liquidity positions can claim the incentives emission growth since the first emission of the corresponding pool due to uninitialized state]()
-
-### UniV3
-- [🔴 High - Hooked - getEmissionGrowthInside calculations based on Uniswap V3 fee growth calculations will revert when underflow/overflow occurs due to missing unchecked block]()
+- [🔴 High - STBL MFS - most of the crits]()
 
 
 ## Lending and DeFi Integrations
@@ -156,11 +149,23 @@
 - [🟡 Medium - Liquidating positions of different accounts for the same market on the same block.timestamp uses the same fundingFeePerUnit regardless of the computed MarkPrice based on the size of the position been liqudiated.](https://solodit.cyfrin.io/issues/liquidating-positions-of-different-accounts-for-the-same-market-on-the-same-blocktimestamp-uses-the-same-fundingfeeperunit-regardless-of-the-computed-markprice-based-on-the-size-of-the-position-been-liqudiated-codehawks-zaros-git)
 
 
+## Uniswap - Integrations, Hooks and Forks
+### UniV4
+- [🔴 High - FinanceVII - Fees can be stolen from partially unwrapped UniV4 positions](https://solodit.cyfrin.io/issues/fees-can-be-stolen-from-partially-unwrapped-uniswapv4wrapper-positions-cyfrin-none-vii-markdown)
+- [🔴 High - Hooked - Uniswap V4 swap fee handling is completely broken due to dynamic LP fee override not being applied as intended, overcharging swappers and breaking the incentive mechanism]()
+- [🔴 High - Hooked - New liquidity positions can claim the incentives emission growth since the first emission of the corresponding pool due to uninitialized state]()
+
+### UniV3
+- [🔴 High - Hooked - getEmissionGrowthInside calculations based on Uniswap V3 fee growth calculations will revert when underflow/overflow occurs due to missing unchecked block]()
+
+
 ## CrossChain / Multichain
 - [🟡 Medium - Maia - If `RootBridgeAgent.lzReceiveNonBlocking` reverts internally, the native token sent by relayer to RootBridgeAgent is left in RootBridgeAgent](https://solodit.cyfrin.io/issues/m-07-if-rootbridgeagentlzreceivenonblocking-reverts-internally-the-native-token-sent-by-relayer-to-rootbridgeagent-is-left-in-rootbridgeagent-code4rena-maia-dao-maia-dao-git)
 
 ## Miscellaneous
 - [🔴 High - Hooked - Contracts intended to be upgradeable lack upgrade capability]()
+- [🔵 Informational - Linea Burn - initialize function not usable because proxy is already initialized]()
+
 
 # Articles 📝
 - [decimalOffset - OZ ERC4626](https://second-garage-698.notion.site/decimalOffset-OZ-ERC4626-16fb8a972b058065a072f430f4484500)
