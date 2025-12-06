@@ -18,29 +18,31 @@
 ### Cyfrin - Lead Security Researcher (August 2025 - Present)
 | Project Name          | Date      | Category                              | Report |
 | :----------:          | :---      | :---                                  | :----- |
-|                       | 2025-11   |                                       | **To be disclosed**  |
-| Linea Burn Mechanism  | 2025-10   | Rollup Fee Mechanism                  | **To be disclosed**  |
-| STBL MFS              | 2025-10   | Staking / Airdrop                     | **To be disclosed**  |
-| Remora Dynamic Tokens | 2025-10   | RWA                                   | **To be disclosed**  |
+|                       | 2025-12   |                                       | **To be disclosed**  |
+| Lido Earn             | 2025-12   |                                       | **To be disclosed**  |
+| STBL Peg              | 2025-11   | Yield Tokenization / StableCoin       | **To be disclosed**  |
+| Remora Final Audit    | 2025-11   | RWA, Real-Estate Tokenization, Yield, Crowdfunding | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-11-20-cyfrin-remora-v1.0.pdf)**  |
+| Linea Native Yield    | 2025-11   | LidoV3 Integration                    | **To be disclosed**  |
+| Linea Burn Mechanism  | 2025-10   | Rollup Fee Mechanism                  | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-11-03-cyfrin-linea-burn-v2.2.pdf)**  |
+| STBL MFS              | 2025-10   | Staking / Airdrop                     | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-10-24-cyfrin-stbl-mfs-v2.0.pdf)**  |
+| Remora Dynamic Tokens | 2025-10   | RWA, Real-Estate Tokenization, Yield, Crowdfunding | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)**  |
 | Stata Tranches        | 2025-09   | Yield Tokenization / Vault Tranches   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf)**  |
-| Securitize - DSToken  | 2025-09   | TradFi                                | **PRIVATE**  |
+| Securitize - DSToken  | 2025-09   | TradFi                                | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-10-cyfrin-securitize-dstoken-rebasing-v2.1.pdf)**  |
 | STBL                  | 2025-08   | Yield Tokenization / StableCoin       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-stbl-v2.0.pdf)**  |
 
 ### Cyfrin - Contractor (2024-2025)
-
 | Project Name      | Date      | Category                              | Report |
 | :----------:      | :---      | :---                                  | :----- |
-| Hooked            | 2025-07   | UniV4 Hooks, ve(3,3)                  | **PRIVATE**  |
+| Hooked            | 2025-07   | UniV4 Hooks, ve(3,3)                  | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-09-09-cyfrin-hooked-v2.0.pdf)**  |
 | Finance_VII       | 2025-07   | UniV4 Hooks and Euler Integration     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf)**  |
-| Remora            | 2025-06   | RWA                                   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
-| PaidNetwork       | 2025-05   | Launchpad                             | **PRIVATE**  |
+| Remora            | 2025-06   | RWA, Real-Estate Tokenization, Yield, Crowdfunding | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
+| PaidNetwork       | 2025-05   | Launchpad                             | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-06-06-cyfrin-paid-crowdfunding-v2.0.pdf)**  |
 | **NDA**           | 2024-11   | Multichain Voting                     | **NDA**  |
 | **NDA**           | 2024-10   | UniswapV4 Router Fork                 | **NDA**  |
 | **NDA**           | 2024-10   | LST                                   | **NDA**  |
 | **NDA**           | 2024-05   | L2 Rollup                             | **NDA**  |
 
 ### Bailsec - Contractor (2025)
-
 | Project Name      | Date     | Category                   | Report |
 | :----------:      | :---     | :---                       | :----- |
 | LST Hyperdrive    | 2025-07  | Staking in Hyperdrive      | **PRIVATE** |
@@ -122,6 +124,7 @@
 # Interesting Findings 🕵️
 
 ## Business Logic Bugs
+- [🔴 High - Linea Native Yield - Execution of lstLiabilities repayment upon detection of positive yield and sufficient stVault liquidity disrupts the integrity of userFunds accounting leading to breaking core functionality to report positive yield and repayment of liabilities and obligations]()
 - [🔴 High - Hooked - Gauges cannot receive their share of Hooked emissions due to incorrect reference to the new epoch timestamp during notification and distribution]()
 - [🔴 High - Hooked - Blacklisting can be circumvented by merging into a non-blacklisted token ID]()
 - [🔴 High - Hooked - Voters can receive fewer incentives than expected when recasting their votes of multiple veNFTs to the same pool in a subsequent epoch due to their MultiIncentives balance being overwritten]()
