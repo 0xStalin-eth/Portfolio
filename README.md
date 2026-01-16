@@ -18,15 +18,17 @@
 ### Cyfrin - Lead Security Researcher (August 2025 - Present)
 | Project Name          | Date      | Category                              | Report |
 | :----------:          | :---      | :---                                  | :----- |
-|                       | 2025-12   |                                       | **To be disclosed**  |
-| Lido Earn             | 2025-12   |                                       | **To be disclosed**  |
-| STBL Peg              | 2025-11   | Yield Tokenization / StableCoin       | **To be disclosed**  |
-| Remora Final Audit    | 2025-11   | RWA, Real-Estate Tokenization, Yield, Crowdfunding | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-11-20-cyfrin-remora-v1.0.pdf)**  |
+|                       | 2026-01   |                                       | **To be disclosed**  |
+| Strata Shares Cooldown| 2026-01   | Yield Tokenization / Vault Tranches   | **To be disclosed**  |
+| Linea Mixed Update    | 2026-01   | L2 Rollup                             | **To be disclosed**  |
+| Lido Earn             | 2025-12   | DeFi Strategies                       | **[REPORT](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-19-cyfrin-lido-earn-v2.0.pdf)**  |
+| STBL Peg              | 2025-11   | Yield Tokenization / StableCoin       | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-12-13-cyfrin-stbl-peg-v2.1.pdf)**  |
+| Remora Final Audit    | 2025-11   | RWA, Real-Estate Tokenization, Yield, Crowdfunding | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-05-cyfrin-remora-final-v2.0.pdf)**  |
 | Linea Native Yield    | 2025-11   | LidoV3 Integration                    | **To be disclosed**  |
 | Linea Burn Mechanism  | 2025-10   | Rollup Fee Mechanism                  | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-11-03-cyfrin-linea-burn-v2.2.pdf)**  |
 | STBL MFS              | 2025-10   | Staking / Airdrop                     | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-10-24-cyfrin-stbl-mfs-v2.0.pdf)**  |
 | Remora Dynamic Tokens | 2025-10   | RWA, Real-Estate Tokenization, Yield, Crowdfunding | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)**  |
-| Stata Tranches        | 2025-09   | Yield Tokenization / Vault Tranches   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf)**  |
+| Strata Tranches       | 2025-09   | Yield Tokenization / Vault Tranches   | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf)**  |
 | Securitize - DSToken  | 2025-09   | TradFi                                | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-10-cyfrin-securitize-dstoken-rebasing-v2.1.pdf)**  |
 | STBL                  | 2025-08   | Yield Tokenization / StableCoin       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-stbl-v2.0.pdf)**  |
 
