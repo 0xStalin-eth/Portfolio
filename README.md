@@ -18,17 +18,20 @@
 ### Cyfrin - Lead Security Researcher (August 2025 - Present)
 | Project Name          | Date      | Category                              | Report |
 | :----------:          | :---      | :---                                  | :----- |
-|                       | 2026-01   |                                       | **To be disclosed**  |
+|                       | 2026-02   |                                       | **To be disclosed**  |
+| Linea Forced TXs      | 2026-02   | L2 Rollup                             | **To be disclosed**  |
+| Libre - Horizon Fee Module | 2026-01   | TradFi / Horizon Integration     | **To be disclosed**  |
+| Securitize Whitelister| 2026-01   | Access Control                        | **To be disclosed**  |
 | Matrixdoc XAUM EVM    | 2026-01   | Multichain / CCIP Integration / LZ Integration   | **To be disclosed**  |
-| Strata Shares Cooldown| 2026-01   | Yield Tokenization / Vault / Tranches   | **To be disclosed**  |
+| Strata Shares Cooldown| 2026-01   | Yield Tokenization / Vault / Tranches | **To be disclosed**  |
 | Linea Mixed Update    | 2026-01   | L2 Rollup                             | **To be disclosed**  |
 | Lido Earn             | 2025-12   | DeFi Strategies                       | **[REPORT](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-19-cyfrin-lido-earn-v2.0.pdf)**  |
 | STBL Peg              | 2025-11   | Yield Tokenization / StableCoin       | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-12-13-cyfrin-stbl-peg-v2.1.pdf)**  |
-| Remora Final Audit    | 2025-11   | RWA, Real-Estate Tokenization, Crowdfunding | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-05-cyfrin-remora-final-v2.0.pdf)**  |
+| Remora Final Audit    | 2025-11   | RWA, Crowdfunding                     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-05-cyfrin-remora-final-v2.0.pdf)**  |
 | Linea Native Yield    | 2025-11   | LidoV3 Integration                    | **To be disclosed**  |
 | Linea Burn Mechanism  | 2025-10   | Rollup Fee Mechanism                  | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-11-03-cyfrin-linea-burn-v2.2.pdf)**  |
 | STBL MFS              | 2025-10   | Staking / Airdrop                     | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-10-24-cyfrin-stbl-mfs-v2.0.pdf)**  |
-| Remora Dynamic Tokens | 2025-10   | RWA, Real-Estate Tokenization, Crowdfunding | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)**  |
+| Remora Dynamic Tokens | 2025-10   | RWA, Crowdfunding                     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)**  |
 | Strata Tranches       | 2025-09   | Yield Tokenization / Vault / Tranches | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf)**  |
 | Securitize - DSToken  | 2025-09   | TradFi                                | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-10-cyfrin-securitize-dstoken-rebasing-v2.1.pdf)**  |
 | STBL                  | 2025-08   | Yield Tokenization / StableCoin       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-stbl-v2.0.pdf)**  |
@@ -38,7 +41,7 @@
 | :----------:      | :---      | :---                                  | :----- |
 | Hooked            | 2025-07   | UniV4 Hooks, ve(3,3)                  | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-09-09-cyfrin-hooked-v2.0.pdf)**  |
 | Finance_VII       | 2025-07   | UniV4 Hooks and Euler Integration     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf)**  |
-| Remora            | 2025-06   | RWA, Real-Estate Tokenization, Crowdfunding | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
+| Remora            | 2025-06   | RWA, Crowdfunding                     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
 | PaidNetwork       | 2025-05   | Launchpad                             | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-06-06-cyfrin-paid-crowdfunding-v2.0.pdf)**  |
 | **NDA**           | 2024-11   | Multichain Voting                     | **NDA**  |
 | **NDA**           | 2024-10   | UniswapV4 Router Fork                 | **NDA**  |
@@ -74,24 +77,24 @@
 |:------------:|:--------:|:----:|:----:|:--------:|:----:|
 | SiloV2              | 2025-01 | Lending | Cantina | <h5>1H, 2M</h5> | **[8th](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard)** |
 | SecondSwap          | 2024-12 | DEX | Code4rena | <h5>1H, 2M</h5> | - |
-| IdleFinance         | 2024-12 | Lending, ERC4626 | Sherlock | <h5>1H</h5>  | **[3rd 🥉](https://audits.sherlock.xyz/contests/571/leaderboard)** |
-| Concrete            | 2024-11 | ERC4626, DeFi Strategies | Code4rena | <h5>5H, 10M</h5> | **[1st 🥇](https://code4rena.com/audits/2024-11-concrete)** |
-| CCIP v1.6           | 2024-11 | Multichain, Bridge | Code4rena | <h5>1L</h5> | - |
+| IdleFinance         | 2024-12 | Lending / Vault | Sherlock | <h5>1H</h5>  | **[3rd 🥉](https://audits.sherlock.xyz/contests/571/leaderboard)** |
+| Concrete            | 2024-11 | Vault / DeFi Strategies | Code4rena | <h5>5H, 10M</h5> | **[1st 🥇](https://code4rena.com/audits/2024-11-concrete)** |
+| CCIP v1.6           | 2024-11 | Multichain / Bridge | Code4rena | <h5>1L</h5> | - |
 | Flow                | 2024-10 | Payment Streaming | CodeHawks | <h5>1L</h5> | **[5th 🎖️](https://codehawks.cyfrin.io/c/2024-10-sablier/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)**  |
-| MorphL2             | 2024-09 | L2 Bridge, Staking | Sherlock | <h5>1M</h5> | **[5th 🎖️](https://audits.sherlock.xyz/contests/207/leaderboard)** |
-| Axelar              | 2024-08 | Multichain, Bridge | Code4rena | <h5>1L</h5> | - |
+| MorphL2             | 2024-09 | L2 Bridge / Staking | Sherlock | <h5>1M</h5> | **[5th 🎖️](https://audits.sherlock.xyz/contests/207/leaderboard)** |
+| Axelar              | 2024-08 | Multichain / Bridge | Code4rena | <h5>1L</h5> | - |
 | Zaros               | 2024-07 | Perpetuals / Options | CodeHawks | <h5>3H, 3M</h5> | **[1st 🥇](https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)**  |
-| CCIP v1.5           | 2024-07 | Multichain, Bridge | CodeHawks | <h5>1L</h5> | - |
+| CCIP v1.5           | 2024-07 | Multichain / Bridge | CodeHawks | <h5>1L</h5> | - |
 | CreditSize          | 2024-06 | Lending | Code4rena | <h5>2H, 4M</h5> | - |
-| BakerFi             | 2024-06 | ERC4626, DeFi Strategies | Code4rena | <h5>3H, 3M</h5> | **[3rd 🥉](https://code4rena.com/reports/2024-05-bakerfi)** |
+| BakerFi             | 2024-06 | Vault / DeFi Strategies | Code4rena | <h5>3H, 3M</h5> | **[3rd 🥉](https://code4rena.com/reports/2024-05-bakerfi)** |
 | Panoptic            | 2024-04 | Perpetuals / Options | Code4rena | <h5>1H, 1M</h5> | **[10th ](https://code4rena.com/audits/2024-04-panoptic)** |
 | WiseLending         | 2024-03 | Lending | Code4rena | <h5>2H, 3M</h5> | **[2nd 🥈](https://code4rena.com/audits/2024-02-wise-lending)** |
 | CopraFinance        | 2024-03 | Crypto Bond | Sherlock | <h5>1H, 2M</h5> | **[4th 🎖️](https://audits.sherlock.xyz/contests/141/leaderboard)** |
 | Curves              | 2024-01 | SocialFi | Code4rena | <h5>4H</h5> | - |
-| Blast               | 2024-01 | L2 Bridge, Staking | Cantina | <h5>3L</h5> | - |
+| Blast               | 2024-01 | L2 Bridge / Staking | Cantina | <h5>3L</h5> | - |
 | EthereumCreditGuild | 2023-12 | Lending | Code4rena | <h5>2H, 3M</h5> | **[3rd 🥉](https://code4rena.com/audits/2023-12-ethereum-credit-guild)** |
 | Morpho              | 2023-11 | Lending | Cantina | <h5>1M</h5> | **[3rd 🥉](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af/leaderboard)** |
-| EthenaLabs          | 2023-10 | CryptoBons | Code4rena | <h5>1L</h5>  | - |
+| EthenaLabs          | 2023-10 | Crypto Bond | Code4rena | <h5>1L</h5>  | - |
 | WildCat             | 2023-10 | Lending | Code4rena | <h5>2H, 2M</h5> | - |
 | MaiaUlysses         | 2023-10 | Lending / Multichain / LZ Integration | Code4rena | <h5>1H, 3M</h5> | **[2nd 🥈](https://code4rena.com/audits/2023-09-maia-dao-ulysses)** |
 | Centrifuge          | 2023-09 | RWA | Code4rena | <h5>1M</h5> | **[7th ](https://code4rena.com/audits/2023-09-centrifuge)**|
@@ -107,7 +110,7 @@
 | Ajna                | 2023-05 | Lending | Code4rena | <h5>1H, 1M</h5> | - |
 | Index               | 2023-04 | Lending | Sherlock | <h5>1H, 2M</h5> | **[5th 🎖️](https://audits.sherlock.xyz/contests/81/leaderboard)** |
 | USSD                | 2023-04 | StableCoin | Sherlock | <h5>4H, 1M</h5> | - |
-| Juicebox Buyback    | 2023-04 | Funding | Code4rena | <h5>1M</h5> | - |
+| Juicebox Buyback    | 2023-04 | Crowdfunding | Code4rena | <h5>1M</h5> | - |
 | JoJo Exchange       | 2023-04 | DEX | Sherlock | <h5>1M</h5> | - |
 | Frankencoin         | 2023-03 | Stablecoin | Code4rena | <h5>2M</h5> | - |
 | Rubicon             | 2023-03 | DEX | Code4rena | <h5>1H, 1M</h5> | - |
