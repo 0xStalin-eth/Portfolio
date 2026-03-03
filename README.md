@@ -122,6 +122,9 @@ All Public Engagements are listed on my [Sherlock Profile](https://audits.sherlo
 
 ## Business Logic Bugs
 - [🔴 High - Linea Native Yield - Execution of lstLiabilities repayment upon detection of positive yield and sufficient stVault liquidity disrupts the integrity of userFunds accounting leading to breaking core functionality to report positive yield and repayment of liabilities and obligations]()
+- [🔴 High - Wildcat - Lenders can escape the blacklisting of their accounts because they can move their MarketTokens to different accounts](https://github.com/code-423n4/2023-10-wildcat-findings/issues/266)
+- [🔴 High - WiseLending - Incorrect bad debt accounting can lead to a state where the claimFeesBeneficial function is permanently bricked and no new incentives can be distributed](https://github.com/code-423n4/2024-02-wise-lending-findings/issues/74)
+
 - [🔴 High - Remora - A single holder can grief the payouts of all holders forwarding their payouts to the same forwarder](https://solodit.cyfrin.io/issues/a-single-holder-can-grief-the-payouts-of-all-holders-forwarding-their-payouts-to-the-same-forwarder-cyfrin-none-remora-pledge-markdown)
 - [🔴 High - PoolTogether - Increasing reserves breaks PrizePool accounting](https://solodit.cyfrin.io/issues/h-08-increasing-reserves-breaks-prizepool-accounting-code4rena-pooltogether-pooltogether-git)
 - [🔴 High - Hooked - Gauges cannot receive their share of Hooked emissions due to incorrect reference to the new epoch timestamp during notification and distribution]()
@@ -130,16 +133,22 @@ All Public Engagements are listed on my [Sherlock Profile](https://audits.sherlo
 - [🔴 High - STBL MFS - most of the crits]()
 - [🟡 Medium - Strata Tranches - Tranche::burnSharesAsFee can be used to manipulate the exchange rate to cause withdrawals to revert for legitimate users](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports_md/2026-01-23-cyfrin-strata-shares-cooldown-v2.0.md#trancheburnsharesasfee-can-be-used-to-manipulate-the-exchange-rate-to-cause-withdrawals-to-revert-for-legitimate-users)
 - [🟡 Medium - Strata Tranches - APR Targets are not updated when withdrawal requests are sent to the SharesCooldown to reflect the change on NAVs caused by the charged fees for the withdrawal](http://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports_md/2026-01-23-cyfrin-strata-shares-cooldown-v2.0.md#apr-targets-are-not-updated-when-withdrawal-requests-are-sent-to-the-sharescooldown-to-reflect-the-change-on-navs-caused-by-the-charged-fees-for-the-withdrawal)
+- [🟡 Medium - Ondo - Investors claiming their maxDeposit by using the LiquidityPool.deposit() will cause that other users won't be able to claim their maxDeposit/maxMint](https://github.com/code-423n4/2023-09-centrifuge-findings/issues/118)
+- [🔵 Low - Lido - Griefing attack on depositors by manipulating the exchange rate during recoveryMode via a donation of TARGET_VAULTs shares in between emergencyMode and recoveryMode](https://github.com/solodit/solodit_content/blob/main/reports/Cyfrin/2025-12-19-cyfrin-lido-earn-v2.0.md#griefing-attack-on-depositors-by-manipulating-the-exchange-rate-during-recoverymode-via-a-donation-of-target_vaults-shares-in-between-emergencymode-and-recoverymode)
+
 
 ## Lending and DeFi Integrations
 - [🔴 High - Repayment of lstLiabilities to LidoV3 disrupts integrity of userFunds accounting leading to breaking yield reporting to Linea Users abd repayment of further obligations](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports_md/2026-02-12-cyfrin-linea-yield-manager-v2.0.md#execution-of-lstliabilities-repayment-upon-detection-of-positive-yield-and-sufficient-stvault-liquidity-disrupts-the-integrity-of-userfunds-accounting-leading-to-breaking-core-functionality-to-report-positive-yield-and-repayment-of-liabilities-and-obligations)
-- [🔴 High - Incorrect bad debt accounting can lead to a state where no new incentives can be distributed and protocol fees gets stucked](https://solodit.cyfrin.io/issues/h-03-incorrect-bad-debt-accounting-can-lead-to-a-state-where-the-claimfeesbeneficial-function-is-permanently-bricked-and-no-new-incentives-can-be-distributed-potentially-locking-pending-and-future-protocol-fees-in-the-feemanager-contract-code4rena-wise-lending-wise-lending-git)
+- [🔴 High - User's assets can be stolen when removing them from the Singularity market through the Magnetar contract](https://solodit.cyfrin.io/issues/h-47-users-assets-can-be-stolen-when-removing-them-from-the-singularity-market-through-the-magnetar-contract-code4rena-tapioca-dao-tapioca-dao-git)
+- [🔴 High - Not using eMode's risk parameters configurations to calculate the maxBorrow/repayAmount when eMode is activated](https://github.com/sherlock-audit/2023-05-Index-judging/issues/21)
 - [🔴 High - Incorrect integration with Aave - Incorrect usage of the eMode's risk](https://solodit.cyfrin.io/issues/h-1-emode-implementation-is-completely-broken-sherlock-none-index-git)
 - [🔴 High - Anybody can buy collateral on behalf of other users without having any allowance using the multiHopBuyCollateral()](https://solodit.cyfrin.io/issues/h-54-anybody-can-buy-collateral-on-behalf-of-other-users-without-having-any-allowance-using-the-multihopbuycollateral-code4rena-tapioca-dao-tapioca-dao-git)
 - [🔴 High - User's assets can be stolen when removing them from the Singularity market through the Magnetar contract](https://solodit.cyfrin.io/issues/h-47-users-assets-can-be-stolen-when-removing-them-from-the-singularity-market-through-the-magnetar-contract-code4rena-tapioca-dao-tapioca-dao-git)
+- [🔴 High - _update_debt_() function doesn't accrue interests even though the debt_token has outsanding debt](https://github.com/sherlock-audit/2023-06-unstoppable-judging/issues/51)
 - [🟡 Medium - rounding causes investors to not be able to claim their max deposits](https://solodit.cyfrin.io/issues/m-05-investors-claiming-their-maxdeposit-by-using-the-liquiditypooldeposit-will-cause-other-users-to-be-unable-to-claim-their-maxdepositmaxmint-code4rena-centrifuge-centrifuge-git)
 - [🟡 Medium - All supplied WETH to Aave as a deposit by a Strategy will be irrecoverable](https://solodit.cyfrin.io/issues/m-01-all-supplied-weth-to-aave-as-a-deposit-by-a-strategy-will-be-irrecoverable-code4rena-bakerfi-bakerfi-git)
-- [🟡 Medium - Withdrawing uncollateralized deposits is possible even though the position is in liquidation mode](https://solodit.cyfrin.io/issues/m-04-withdrawing-uncollateralized-deposits-is-possible-even-though-the-position-is-in-liquidation-mode-code4rena-wise-lending-wise-lending-git)
+- [🟡 Medium - cWithdrawing uncollateralized deposits is possible even though the position is in liquidation mode](https://solodit.cyfrin.io/issues/m-04-withdrawing-uncollateralized-deposits-is-possible-even-though-the-position-is-in-liquidation-mode-code4rena-wise-lending-wise-lending-git)
+- [🟡 Medium - LiquidateWithReplacement does not charge swap fees on the borrower](https://github.com/code-423n4/2024-06-size-findings/issues/53)
 
 
 ## Perpetuals
@@ -163,9 +172,10 @@ All Public Engagements are listed on my [Sherlock Profile](https://audits.sherlo
 - [🟡 Medium - Maia - If `RootBridgeAgent.lzReceiveNonBlocking` reverts internally, the native token sent by relayer to RootBridgeAgent is left in RootBridgeAgent](https://solodit.cyfrin.io/issues/m-07-if-rootbridgeagentlzreceivenonblocking-reverts-internally-the-native-token-sent-by-relayer-to-rootbridgeagent-is-left-in-rootbridgeagent-code4rena-maia-dao-maia-dao-git)
 
 ## Miscellaneous
+- [🔴 High - Maia - Incorrectly reading the offset from the received data parameter to get the depositNonce](https://github.com/code-423n4/2023-05-maia-findings/issues/169)
+- [🔴 High - Maia - Accessing the incorrect offset to get the nonce ](https://github.com/code-423n4/2023-05-maia-findings/issues/267)
 - [🔵 Informational - Linea Burn - initialize function not usable because proxy is already initialized](https://solodit.cyfrin.io/issues/unnecessary-implementation-of-the-rolluprevenuevaultinitialize-given-that-the-deployed-proxy-is-already-initialized-cyfrin-none-linea-burn-markdown)
 - [🔵 Low - Lido - ERC4626Adapter::maxMint doesn't consider pending fees to be harvested which leads to under-calculating the real shares that can be minted](https://github.com/solodit/solodit_content/blob/main/reports/Cyfrin/2025-12-19-cyfrin-lido-earn-v2.0.md#erc4626adaptermaxmint-doesnt-consider-pending-fees-to-be-harvested-which-leads-to-under-calculating-the-real-shares-that-can-be-minted)
-- [🔵 Low - Lido - Griefing attack on depositors by manipulating the exchange rate during recoveryMode via a donation of TARGET_VAULTs shares in between emergencyMode and recoveryMode](https://github.com/solodit/solodit_content/blob/main/reports/Cyfrin/2025-12-19-cyfrin-lido-earn-v2.0.md#griefing-attack-on-depositors-by-manipulating-the-exchange-rate-during-recoverymode-via-a-donation-of-target_vaults-shares-in-between-emergencymode-and-recoverymode)
 - [🔴 High - Hooked - Contracts intended to be upgradeable lack upgrade capability]()
 
 # Articles 📝
