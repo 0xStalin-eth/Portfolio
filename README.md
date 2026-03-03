@@ -121,10 +121,9 @@ All Public Engagements are listed on my [Sherlock Profile](https://audits.sherlo
 # Interesting Findings 🕵️
 
 ## Business Logic Bugs
-- [🔴 High - Linea Native Yield - Execution of lstLiabilities repayment upon detection of positive yield and sufficient stVault liquidity disrupts the integrity of userFunds accounting leading to breaking core functionality to report positive yield and repayment of liabilities and obligations]()
+- [🔴 High - Linea Native Yield - Execution of lstLiabilities repayment upon detection of positive yield and sufficient stVault liquidity disrupts the integrity of userFunds accounting leading to breaking core functionality to report positive yield and repayment of liabilities and obligations](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports_md/2026-02-12-cyfrin-linea-yield-manager-v2.0.md#execution-of-lstliabilities-repayment-upon-detection-of-positive-yield-and-sufficient-stvault-liquidity-disrupts-the-integrity-of-userfunds-accounting-leading-to-breaking-core-functionality-to-report-positive-yield-and-repayment-of-liabilities-and-obligations)
 - [🔴 High - Wildcat - Lenders can escape the blacklisting of their accounts because they can move their MarketTokens to different accounts](https://github.com/code-423n4/2023-10-wildcat-findings/issues/266)
 - [🔴 High - WiseLending - Incorrect bad debt accounting can lead to a state where the claimFeesBeneficial function is permanently bricked and no new incentives can be distributed](https://github.com/code-423n4/2024-02-wise-lending-findings/issues/74)
-
 - [🔴 High - Remora - A single holder can grief the payouts of all holders forwarding their payouts to the same forwarder](https://solodit.cyfrin.io/issues/a-single-holder-can-grief-the-payouts-of-all-holders-forwarding-their-payouts-to-the-same-forwarder-cyfrin-none-remora-pledge-markdown)
 - [🔴 High - PoolTogether - Increasing reserves breaks PrizePool accounting](https://solodit.cyfrin.io/issues/h-08-increasing-reserves-breaks-prizepool-accounting-code4rena-pooltogether-pooltogether-git)
 - [🔴 High - Hooked - Gauges cannot receive their share of Hooked emissions due to incorrect reference to the new epoch timestamp during notification and distribution]()
@@ -138,7 +137,6 @@ All Public Engagements are listed on my [Sherlock Profile](https://audits.sherlo
 
 
 ## Lending and DeFi Integrations
-- [🔴 High - Repayment of lstLiabilities to LidoV3 disrupts integrity of userFunds accounting leading to breaking yield reporting to Linea Users abd repayment of further obligations](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports_md/2026-02-12-cyfrin-linea-yield-manager-v2.0.md#execution-of-lstliabilities-repayment-upon-detection-of-positive-yield-and-sufficient-stvault-liquidity-disrupts-the-integrity-of-userfunds-accounting-leading-to-breaking-core-functionality-to-report-positive-yield-and-repayment-of-liabilities-and-obligations)
 - [🔴 High - User's assets can be stolen when removing them from the Singularity market through the Magnetar contract](https://solodit.cyfrin.io/issues/h-47-users-assets-can-be-stolen-when-removing-them-from-the-singularity-market-through-the-magnetar-contract-code4rena-tapioca-dao-tapioca-dao-git)
 - [🔴 High - Not using eMode's risk parameters configurations to calculate the maxBorrow/repayAmount when eMode is activated](https://github.com/sherlock-audit/2023-05-Index-judging/issues/21)
 - [🔴 High - Incorrect integration with Aave - Incorrect usage of the eMode's risk](https://solodit.cyfrin.io/issues/h-1-emode-implementation-is-completely-broken-sherlock-none-index-git)
