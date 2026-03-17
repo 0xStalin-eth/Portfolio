@@ -33,6 +33,8 @@ My area of expertise:
 | Project Name          | Date      | Category                              | Report |
 | :----------:          | :---      | :---                                  | :----- |
 |                       | 2026-03   |                                       | **To be disclosed**  |
+| WLFI - Stablecoin EIP-3009 | 2026-03 | EIP-3009 Integration               | **To be disclosed**  |
+| ENS DAO               | 2026-03   | DAO Proposal / Access Control         | **To be disclosed**  |
 | Parallel 3.1          | 2026-02   | Stablecoin / PSM / Angle Fork / LZ Integration     | **To be disclosed**  |
 | Linea Forced TXs      | 2026-02   | L2 Rollup                             | **To be disclosed**  |
 | Libre - Horizon Fee Module | 2026-01   | TradFi / Horizon Integration     | **To be disclosed**  |
@@ -177,6 +179,7 @@ All Public Engagements are listed on my [Sherlock Profile](https://audits.sherlo
 - [🔴 High - Hooked - Contracts intended to be upgradeable lack upgrade capability]()
 
 # Articles 📝
+- [Hack Postmortem - UniswapV4Router04 Exploit](https://x.com/0xStalin/status/2030725319804776528)
 - [decimalOffset - OZ ERC4626](https://second-garage-698.notion.site/decimalOffset-OZ-ERC4626-16fb8a972b058065a072f430f4484500)
 - [Foundry — Write directly on the variable’s storage slots](https://coinsbench.com/foundry-write-directly-on-the-variables-storage-slots-1f2d05974fce)
 - [Get the contract's Storage Layout](https://x.com/0xStalin/status/1866563306204594262)
