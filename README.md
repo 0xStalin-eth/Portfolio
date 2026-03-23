@@ -30,15 +30,17 @@ My area of expertise:
 ## Private Engagements
 
 ### Cyfrin - Lead Security Researcher (August 2025 - Present)
-| Project Name          | Date      | Category                              | Report |
-| :----------:          | :---      | :---                                  | :----- |
-|                       | 2026-03   |                                       | **To be disclosed**  |
-| WLFI - Stablecoin EIP-3009 | 2026-03 | EIP-3009 Integration               | **To be disclosed**  |
-| ENS DAO               | 2026-03   | DAO Proposal / Access Control         | **To be disclosed**  |
-| Parallel 3.1          | 2026-02   | Stablecoin / PSM / Angle Fork / LZ Integration     | **To be disclosed**  |
-| Linea Forced TXs      | 2026-02   | L2 Rollup                             | **To be disclosed**  |
-| Libre - Horizon Fee Module | 2026-01   | TradFi / Horizon Integration     | **To be disclosed**  |
-| Securitize Whitelister| 2026-01   | Access Control                        | **To be disclosed**  |
+| Project Name                  | Date    | Category                                | Report |
+| :----------:                  | :---    | :---                                    | :----- |
+|                               | 2026-03 |                                         | **To be disclosed**  |
+| Bridge and VaultRegistrarV2   | 2026-03 | Wormhole Executor Framework Integration / EIP-712 and ERC-1271 Implementations | **To be disclosed**  |
+| WLFI - Stablecoin EIP-3009    | 2026-03 | EIP-3009 Integration                    | **To be disclosed**  |
+| RegistrarManager              | 2026-03 | ZodiacRoles Access Control              | **To be disclosed**  |
+| ShutterSecurityCouncil        | 2026-03 | DAO Proposal / Access Control           | **To be disclosed**  |
+| Parallel 3.1                  | 2026-02 | Stablecoin / PSM / Angle Fork / LZ Integration     | **To be disclosed**  |
+| Linea Forced TXs              | 2026-02 | L2 Rollup                               | **To be disclosed**  |
+| Libre - Horizon Fee Module    | 2026-01 | TradFi / Horizon Integration            | **To be disclosed**  |
+| Securitize Whitelister| 2026-01   | Access Control                                | **To be disclosed**  |
 | Matrixdoc XAUM EVM    | 2026-01   | Multichain / CCIP Integration / LZ Integration   | **To be disclosed**  |
 | Strata Shares Cooldown| 2026-01   | Yield Tokenization / Vault / Tranches | **[REPORT](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-01-23-cyfrin-strata-shares-cooldown-v2.0.pdf)**  |
 | Linea Mixed Update    | 2026-01   | L2 Rollup                             | **To be disclosed**  |
