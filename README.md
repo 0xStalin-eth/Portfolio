@@ -32,35 +32,35 @@ My area of expertise:
 ### Cyfrin - Lead Security Researcher (August 2025 - Present)
 | Project Name                  | Date    | Category                                | Report |
 | :----------:                  | :---    | :---                                    | :----- |
-|                               | 2026-03 |                                         | **To be disclosed**  |
+|                               | 2026-04 |                                         | **To be disclosed**  |
 | Bridge and VaultRegistrarV2   | 2026-03 | Wormhole Executor Framework Integration / EIP-712 and ERC-1271 Implementations | **To be disclosed**  |
 | WLFI - Stablecoin EIP-3009    | 2026-03 | EIP-3009 Integration                    | **To be disclosed**  |
-| RegistrarManager              | 2026-03 | ZodiacRoles Access Control              | **To be disclosed**  |
-| ShutterSecurityCouncil        | 2026-03 | DAO Proposal / Access Control           | **To be disclosed**  |
+| Blockful - RegistrarManager   | 2026-03 | ZodiacRoles Access Control              | **To be disclosed**  |
+| Blockful - ShutterSecurityCouncil | 2026-03 | DAO Proposal / Access Control       | **To be disclosed**  |
 | Parallel 3.1                  | 2026-02 | Stablecoin / PSM / Angle Fork / LZ Integration     | **To be disclosed**  |
 | Linea Forced TXs              | 2026-02 | L2 Rollup                               | **To be disclosed**  |
 | Libre - Horizon Fee Module    | 2026-01 | TradFi / Horizon Integration            | **To be disclosed**  |
-| Securitize Whitelister| 2026-01   | Access Control                                | **To be disclosed**  |
-| Matrixdoc XAUM EVM    | 2026-01   | Multichain / CCIP Integration / LZ Integration   | **To be disclosed**  |
-| Strata Shares Cooldown| 2026-01   | Yield Tokenization / Vault / Tranches | **[REPORT](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-01-23-cyfrin-strata-shares-cooldown-v2.0.pdf)**  |
-| Linea Mixed Update    | 2026-01   | L2 Rollup                             | **To be disclosed**  |
-| Lido Earn             | 2025-12   | DeFi Strategies                       | **[REPORT](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-19-cyfrin-lido-earn-v2.0.pdf)**  |
-| STBL Peg              | 2025-11   | Yield Tokenization / StableCoin       | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-12-13-cyfrin-stbl-peg-v2.1.pdf)**  |
-| Remora Final Audit    | 2025-11   | RWA / Crowdfunding                     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-05-cyfrin-remora-final-v2.0.pdf)**  |
-| Linea Native Yield    | 2025-11   | LidoV3 Integration                    | **[REPORT](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-02-12-cyfrin-linea-yield-manager-v2.0.pdf)**  |
-| Linea Burn Mechanism  | 2025-10   | Rollup Fee Mechanism                  | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-11-03-cyfrin-linea-burn-v2.2.pdf)**  |
-| STBL MFS              | 2025-10   | Staking / Airdrop                     | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-10-24-cyfrin-stbl-mfs-v2.0.pdf)**  |
-| Remora Dynamic Tokens | 2025-10   | RWA / Crowdfunding                     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)**  |
-| Strata Tranches       | 2025-09   | Yield Tokenization / Vault / Tranches | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf)**  |
-| Securitize - DSToken  | 2025-09   | TradFi                                | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-10-cyfrin-securitize-dstoken-rebasing-v2.1.pdf)**  |
-| STBL                  | 2025-08   | Yield Tokenization / StableCoin       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-stbl-v2.0.pdf)**  |
+| Securitize Whitelister        | 2026-01 | Access Control                          | **To be disclosed**  |
+| Matrixdoc XAUM EVM            | 2026-01 | Multichain / CCIP Integration / LZ Integration   | **To be disclosed**  |
+| Strata Shares Cooldown        | 2026-01 | Yield Tokenization / ERC4626 / Tranches | **[REPORT](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-01-23-cyfrin-strata-shares-cooldown-v2.0.pdf)**  |
+| Linea Mixed Update            | 2026-01 | L2 Rollup                               | **To be disclosed**  |
+| Lido Earn                     | 2025-12 | DeFi Strategies                         | **[REPORT](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-19-cyfrin-lido-earn-v2.0.pdf)**  |
+| STBL Peg                      | 2025-11 | Yield Tokenization / StableCoin         | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-12-13-cyfrin-stbl-peg-v2.1.pdf)**  |
+| Remora Final Audit            | 2025-11 | RWA / Crowdfunding                      | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-05-cyfrin-remora-final-v2.0.pdf)**  |
+| Linea Native Yield            | 2025-11 | LidoV3 Integration                      | **[REPORT](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-02-12-cyfrin-linea-yield-manager-v2.0.pdf)**  |
+| Linea Burn Mechanism          | 2025-10 | Rollup Fee Mechanism                    | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-11-03-cyfrin-linea-burn-v2.2.pdf)**  |
+| STBL MFS                      | 2025-10 | Staking / Airdrop                       | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-10-24-cyfrin-stbl-mfs-v2.0.pdf)**  |
+| Remora Dynamic Tokens         | 2025-10 | RWA / Crowdfunding                      | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)**  |
+| Strata Tranches               | 2025-09 | Yield Tokenization / ERC4626 / Tranches | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf)**  |
+| Securitize - DSToken          | 2025-09 | TradFi                                  | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-10-cyfrin-securitize-dstoken-rebasing-v2.1.pdf)**  |
+| STBL                          | 2025-08 | Yield Tokenization / StableCoin         | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-stbl-v2.0.pdf)**  |
 
 ### Cyfrin - Contractor (2024-2025)
 | Project Name      | Date      | Category                              | Report |
 | :----------:      | :---      | :---                                  | :----- |
-| Hooked            | 2025-07   | UniV4 Hooks / ve(3,3)                  | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-09-09-cyfrin-hooked-v2.0.pdf)**  |
+| Hooked            | 2025-07   | UniV4 Hooks / ve(3,3)                 | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-09-09-cyfrin-hooked-v2.0.pdf)**  |
 | Finance_VII       | 2025-07   | UniV4 Hooks and Euler Integration     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-15-cyfrin-vii-v2.0.pdf)**  |
-| Remora            | 2025-06   | RWA / Crowdfunding                     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
+| Remora            | 2025-06   | RWA / Crowdfunding                    | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-07-04-cyfrin-remora-pledge-v2.0.pdf)** |
 | PaidNetwork       | 2025-05   | Launchpad                             | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-06-06-cyfrin-paid-crowdfunding-v2.0.pdf)**  |
 | **NDA**           | 2024-11   | Multichain Voting                     | **NDA**  |
 | **NDA**           | 2024-10   | UniswapV4 Router Fork                 | **NDA**  |
@@ -95,14 +95,14 @@ My area of expertise:
 | Contest Name        | Category                          | Rank |
 |---------------------|-----------------------------------|------|
 | Zaros               | Perpetuals / Options              | **[1st 🥇](https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)** |
-| Concrete            | Vault / DeFi Strategies           | **[1st 🥇](https://code4rena.com/audits/2024-11-concrete)** |
+| Concrete            | ERC4626 / DeFi Strategies         | **[1st 🥇](https://code4rena.com/audits/2024-11-concrete)** |
 | WiseLending         | Lending                           | **[2nd 🥈](https://code4rena.com/audits/2024-02-wise-lending)** |
 | MaiaUlysses         | Lending / LZ Integration          | **[2nd 🥈](https://code4rena.com/audits/2023-09-maia-dao-ulysses)** |
 | Morpho              | Lending                           | **[3rd 🥉](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af/leaderboard)** |
 | IdleFinance         | Lending / Vault                   | **[3rd 🥉](https://audits.sherlock.xyz/contests/571/leaderboard)** |
 | PoolTogether        | GameFi / Yield Tokenization       | **[3rd 🥉](https://code4rena.com/audits/2023-07-pooltogether)** |
 | EthereumCreditGuild | Lending                           | **[3rd 🥉](https://code4rena.com/audits/2023-12-ethereum-credit-guild)** |
-| BakerFi             | Vault / DeFi Strategies           | **[3rd 🥉](https://code4rena.com/reports/2024-05-bakerfi)** |
+| BakerFi             | ERC4626 / DeFi Strategies         | **[3rd 🥉](https://code4rena.com/reports/2024-05-bakerfi)** |
 | CopraFinance        | Crypto Bond                       | **[4th 🎖️](https://audits.sherlock.xyz/contests/141/leaderboard)** |
 | Index               | Lending                           | **[5th 🎖️](https://audits.sherlock.xyz/contests/81/leaderboard)** |
 | Flow                | Payment Streaming                 | **[5th 🎖️](https://codehawks.cyfrin.io/c/2024-10-sablier/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)** |
