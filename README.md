@@ -32,12 +32,13 @@ My area of expertise:
 ### Cyfrin - Lead Security Researcher (August 2025 - Present)
 | Project Name                  | Date    | Category                                | Report |
 | :----------:                  | :---    | :---                                    | :----- |
-| Securitize_VaultRegistrarV2   | 2026-03 | EIP-712 and ERC-1271 Implementations    | **To be disclosed**  |
-| SecuritiveBridgeV2            | 2026-03 | Wormhole Executor Framework Integration | **To be disclosed**  |
-| WLFI - Stablecoin EIP-3009    | 2026-03 | EIP-3009 Integration                    | **To be disclosed**  |
+| Tetris Vault                  | 2026-04 | DeFi Strategies / ERC4626               | **To be disclosed**  |
+| Securitize_VaultRegistrarV2   | 2026-03 | EIP-712 and ERC-1271 Implementations    | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-30-cyfrin-securitize-vault-registrarv2-v2.0.pdf)**  |
+| SecuritiveBridgeV2            | 2026-03 | Wormhole Executor Framework Integration | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-30-cyfrin-securitize-bridgev2-v2.0.pdf)**  |
+| WLFI - Stablecoin EIP-3009    | 2026-03 | EIP-3009 Integration                    | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-03-24-cyfrin-wlfi-stablecoinv2-eip3009-v2.0.pdf)**  |
 | Blockful - RegistrarManager   | 2026-03 | ZodiacRoles Access Control              | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-23-cyfrin-ens-registrar-manager-v2.0.pdf)**  |
 | Blockful - ShutterSecurityCouncil | 2026-03 | DAO Proposal / Access Control       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-12-cyfrin-shutter-security-council-v2.0.pdf)**  |
-| Parallel 3.1                  | 2026-02 | Stablecoin / PSM / Angle Fork / LZ Integration     | **To be disclosed**  |
+| Parallel 3.1                  | 2026-02 | Stablecoin / PSM / Angle Fork / LZ Integration     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-04-cyfrin-parallel3.1-v2.0.pdf)**  |
 | Linea Forced TXs              | 2026-02 | L2 Rollup                               | **To be disclosed**  |
 | Libre - Horizon Fee Module    | 2026-01 | TradFi / Horizon Integration            | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-02-06-cyfrin-kaio-holding-fee-aave-horizon-v2.0.pdf)**  |
 | Securitize Whitelister        | 2026-01 | Access Control                          | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-02-11-cyfrin-securitize-evm-whitelister-v2.0.pdf)**  |
