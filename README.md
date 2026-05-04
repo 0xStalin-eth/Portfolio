@@ -9,14 +9,16 @@ Prior to switching my career to we3sec I worked in Software Development roles fo
 
 I specialize in disecting smart contract systems to find hidden and complex bugs.
 
-My area of expertise:
+My areas of expertise:
 - Lending Systems
-- DeFi Integrations
+- Yield Aggregators
+    - Integration with external protocols that generates yield (i.e. Lending Protocols)
 - Yield Tokenization
-- Staking
-- Perpertual Systems
-- Stablecoins 
+    - Integration with Rebasing/Compounding interest tokens
+- Staking Systems
+- Perpertuals / Options Derivatives
 - Crowdfunding / Launchpads / Airdrops Mechanisms
+- Stablecoins 
 - RWA Systems
 - Crosschain / Multichain
 
@@ -32,7 +34,7 @@ My area of expertise:
 ### Cyfrin - Lead Security Researcher (August 2025 - Present)
 | Project Name                  | Date    | Category                                | Report |
 | :----------:                  | :---    | :---                                    | :----- |
-| Tetris Vault                  | 2026-04 | DeFi Strategies / ERC4626               | **To be disclosed**  |
+| Tetris Vault                  | 2026-04 | Yield Aggregator                        | **To be disclosed**  |
 | Securitize_VaultRegistrarV2   | 2026-03 | EIP-712 and ERC-1271 Implementations    | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-30-cyfrin-securitize-vault-registrarv2-v2.0.pdf)**  |
 | SecuritiveBridgeV2            | 2026-03 | Wormhole Executor Framework Integration | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-30-cyfrin-securitize-bridgev2-v2.0.pdf)**  |
 | WLFI - Stablecoin EIP-3009    | 2026-03 | EIP-3009 Integration                    | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-03-24-cyfrin-wlfi-stablecoinv2-eip3009-v2.0.pdf)**  |
@@ -45,7 +47,7 @@ My area of expertise:
 | Matrixdoc XAUM EVM            | 2026-01 | Multichain / CCIP Integration / LZ Integration   | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-01-26-cyfrin-matrixdock-xaum-evm-v2.0.pdf)**  |
 | Strata Shares Cooldown        | 2026-01 | Yield Tokenization / ERC4626 / Tranches | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-01-23-cyfrin-strata-shares-cooldown-v2.0.pdf)**  |
 | Linea Mixed Upgrade           | 2026-01 | L2 Rollup                               | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-27-cyfrin-linea-mixed-upgrade-v2.0.pdf)**  |
-| Lido Earn                     | 2025-12 | DeFi Strategies                         | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-19-cyfrin-lido-earn-v2.0.pdf)**  |
+| Lido Earn                     | 2025-12 | Yield Aggregator                        | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-19-cyfrin-lido-earn-v2.0.pdf)**  |
 | STBL Peg                      | 2025-11 | Yield Tokenization / StableCoin         | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-12-13-cyfrin-stbl-peg-v2.1.pdf)**  |
 | Remora Final Audit            | 2025-11 | RWA / Crowdfunding                      | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-05-cyfrin-remora-final-v2.0.pdf)**  |
 | Linea Native Yield            | 2025-11 | LidoV3 Integration                      | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-02-12-cyfrin-linea-yield-manager-v2.0.pdf)**  |
@@ -96,14 +98,14 @@ My area of expertise:
 | Contest Name        | Category                          | Rank |
 |---------------------|-----------------------------------|------|
 | Zaros               | Perpetuals / Options              | **[1st 🥇](https://codehawks.cyfrin.io/c/2024-07-zaros/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)** |
-| Concrete            | ERC4626 / DeFi Strategies         | **[1st 🥇](https://code4rena.com/audits/2024-11-concrete)** |
+| Concrete            | Yield Aggregator                  | **[1st 🥇](https://code4rena.com/audits/2024-11-concrete)** |
 | WiseLending         | Lending                           | **[2nd 🥈](https://code4rena.com/audits/2024-02-wise-lending)** |
 | MaiaUlysses         | Lending / LZ Integration          | **[2nd 🥈](https://code4rena.com/audits/2023-09-maia-dao-ulysses)** |
 | Morpho              | Lending                           | **[3rd 🥉](https://cantina.xyz/competitions/8409a0ce-6c21-4cc9-8ef2-bd77ce7425af/leaderboard)** |
 | IdleFinance         | Lending / Vault                   | **[3rd 🥉](https://audits.sherlock.xyz/contests/571/leaderboard)** |
-| PoolTogether        | GameFi / Yield Tokenization       | **[3rd 🥉](https://code4rena.com/audits/2023-07-pooltogether)** |
+| PoolTogether        | GameFi / Yield Aggregator         | **[3rd 🥉](https://code4rena.com/audits/2023-07-pooltogether)** |
 | EthereumCreditGuild | Lending                           | **[3rd 🥉](https://code4rena.com/audits/2023-12-ethereum-credit-guild)** |
-| BakerFi             | ERC4626 / DeFi Strategies         | **[3rd 🥉](https://code4rena.com/reports/2024-05-bakerfi)** |
+| BakerFi             | Yield Aggregator                  | **[3rd 🥉](https://code4rena.com/reports/2024-05-bakerfi)** |
 | CopraFinance        | Crypto Bond                       | **[4th 🎖️](https://audits.sherlock.xyz/contests/141/leaderboard)** |
 | Index               | Lending                           | **[5th 🎖️](https://audits.sherlock.xyz/contests/81/leaderboard)** |
 | Flow                | Payment Streaming                 | **[5th 🎖️](https://codehawks.cyfrin.io/c/2024-10-sablier/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)** |
@@ -111,7 +113,7 @@ My area of expertise:
 | MaiaDAO             | Lending / Multichain              | **[5th 🎖️](https://code4rena.com/audits/2023-05-maia-dao-ecosystem)** |
 | Centrifuge          | RWA                               | **[7th 🚀](https://code4rena.com/audits/2023-09-centrifuge)** |
 | Venus Isolated Pools| Lending                           | **[7th 🚀](https://code4rena.com/audits/2023-05-venus-protocol-isolated-pools)** |
-| PoolTogether Deux   | GameFi / Yield Tokenization       | **[7th 🚀](https://code4rena.com/audits/2023-08-pooltogether-v5-part-deux)** |
+| PoolTogether Deux   | GameFi / Yield Aggregator         | **[7th 🚀](https://code4rena.com/audits/2023-08-pooltogether-v5-part-deux)** |
 | SiloV2              | Lending                           | **[8th 🚀](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard)** |
 | Panoptic            | Perpetuals / Options              | **[10th 🚀](https://code4rena.com/audits/2024-04-panoptic)** |
 | OndoFinance         | RWA                               | **[10th 🚀](https://code4rena.com/audits/2023-09-ondo-finance)** |
