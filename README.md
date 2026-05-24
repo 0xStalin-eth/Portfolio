@@ -34,6 +34,8 @@ My areas of expertise:
 ### Cyfrin - Lead Security Researcher (August 2025 - Present)
 | Project Name                  | Date    | Category                                | Report |
 | :----------:                  | :---    | :---                                    | :----- |
+| STBL ESS and Redemptions      | 2026-05 |                                         | **To be disclosed**  |
+| Parallel Upgrade v3.2         | 2026-05 | EIP-3009 Integration                    | **To be disclosed**  |
 | Tetris Vault                  | 2026-04 | Yield Aggregator                        | **To be disclosed**  |
 | Securitize_VaultRegistrarV2   | 2026-03 | EIP-712 and ERC-1271 Implementations    | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-30-cyfrin-securitize-vault-registrarv2-v2.0.pdf)**  |
 | SecuritiveBridgeV2            | 2026-03 | Wormhole Executor Framework Integration | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-30-cyfrin-securitize-bridgev2-v2.0.pdf)**  |
@@ -185,6 +187,7 @@ All Public Engagements are listed on my [Sherlock Profile](https://audits.sherlo
 - [🔵 Informational - Linea Burn - initialize function not usable because proxy is already initialized](https://solodit.cyfrin.io/issues/unnecessary-implementation-of-the-rolluprevenuevaultinitialize-given-that-the-deployed-proxy-is-already-initialized-cyfrin-none-linea-burn-markdown)
 - [🔵 Low - Lido - ERC4626Adapter::maxMint doesn't consider pending fees to be harvested which leads to under-calculating the real shares that can be minted](https://github.com/solodit/solodit_content/blob/main/reports/Cyfrin/2025-12-19-cyfrin-lido-earn-v2.0.md#erc4626adaptermaxmint-doesnt-consider-pending-fees-to-be-harvested-which-leads-to-under-calculating-the-real-shares-that-can-be-minted)
 - [🔴 High - Hooked - Contracts intended to be upgradeable lack upgrade capability]()
+- [🔵 Informational - Parallel Upgrade - TokenP dual inheritance from ERC20PermitUpgradeable and EIP3009 creates independent EIP-712 version sources - VERSION_HASH constant diverges from storage on a version-bumping upgrade, breaking permit()]()
 
 # Articles 📝
 - [Hack Postmortem - UniswapV4Router04 Exploit](https://x.com/0xStalin/status/2030725319804776528)
