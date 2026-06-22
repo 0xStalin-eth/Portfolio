@@ -34,7 +34,8 @@ My areas of expertise:
 ### Cyfrin - Lead Security Researcher (August 2025 - Present)
 | Project Name                  | Date    | Category                                | Report |
 | :----------:                  | :---    | :---                                    | :----- |
-| STBL ESS and Redemptions      | 2026-05 |                                         | **To be disclosed**  |
+| Parallel Savings Fix PR       | 2026-06 | Yield Bearing Vault                     | **To be disclosed**  |
+| STBL ESS and Redemptions      | 2026-05 | Yield Tokenization                      | **To be disclosed**  |
 | Parallel Upgrade v3.2         | 2026-05 | EIP-3009 Integration                    | **To be disclosed**  |
 | Tetris Vault                  | 2026-04 | Yield Aggregator                        | **To be disclosed**  |
 | Securitize_VaultRegistrarV2   | 2026-03 | EIP-712 and ERC-1271 Implementations    | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-30-cyfrin-securitize-vault-registrarv2-v2.0.pdf)**  |
@@ -43,14 +44,14 @@ My areas of expertise:
 | Blockful - RegistrarManager   | 2026-03 | ZodiacRoles Access Control              | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-23-cyfrin-ens-registrar-manager-v2.0.pdf)**  |
 | Blockful - ShutterSecurityCouncil | 2026-03 | DAO Proposal / Access Control       | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-12-cyfrin-shutter-security-council-v2.0.pdf)**  |
 | Parallel 3.1                  | 2026-02 | Stablecoin / PSM / Angle Fork / LZ Integration     | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-04-cyfrin-parallel3.1-v2.0.pdf)**  |
-| Linea Forced TXs              | 2026-02 | L2 Rollup                               | **To be disclosed**  |
+| Linea Forced TXs              | 2026-02 | L2 Rollup                               | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-06-18-cyfrin-linea-forced-txns-v2.0.pdf)**  |
 | Libre - Horizon Fee Module    | 2026-01 | TradFi / Horizon Integration            | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-02-06-cyfrin-kaio-holding-fee-aave-horizon-v2.0.pdf)**  |
 | Securitize Whitelister        | 2026-01 | Access Control                          | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-02-11-cyfrin-securitize-evm-whitelister-v2.0.pdf)**  |
 | Matrixdoc XAUM EVM            | 2026-01 | Multichain / CCIP Integration / LZ Integration   | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-01-26-cyfrin-matrixdock-xaum-evm-v2.0.pdf)**  |
 | Strata Shares Cooldown        | 2026-01 | Yield Tokenization / ERC4626 / Tranches | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-01-23-cyfrin-strata-shares-cooldown-v2.0.pdf)**  |
 | Linea Mixed Upgrade           | 2026-01 | L2 Rollup                               | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-27-cyfrin-linea-mixed-upgrade-v2.0.pdf)**  |
 | Lido Earn                     | 2025-12 | Yield Aggregator                        | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-19-cyfrin-lido-earn-v2.0.pdf)**  |
-| STBL Peg                      | 2025-11 | Yield Tokenization / StableCoin         | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-12-13-cyfrin-stbl-peg-v2.1.pdf)**  |
+| STBL Peg                      | 2025-11 | Yield Tokenization / Stablecoin         | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2025-12-13-cyfrin-stbl-peg-v2.1.pdf)**  |
 | Remora Final Audit            | 2025-11 | RWA / Crowdfunding                      | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-12-05-cyfrin-remora-final-v2.0.pdf)**  |
 | Linea Native Yield            | 2025-11 | LidoV3 Integration                      | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-02-12-cyfrin-linea-yield-manager-v2.0.pdf)**  |
 | Linea Burn Mechanism          | 2025-10 | Rollup Fee Mechanism                    | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-11-03-cyfrin-linea-burn-v2.2.pdf)**  |
@@ -58,7 +59,7 @@ My areas of expertise:
 | Remora Dynamic Tokens         | 2025-10 | RWA / Crowdfunding                      | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)**  |
 | Strata Tranches               | 2025-09 | Yield Tokenization / ERC4626 / Tranches | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-08-cyfrin-strata-tranches-v2.0.pdf)**  |
 | Securitize - DSToken          | 2025-09 | TradFi                                  | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-10-10-cyfrin-securitize-dstoken-rebasing-v2.1.pdf)**  |
-| STBL                          | 2025-08 | Yield Tokenization / StableCoin         | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-stbl-v2.0.pdf)**  |
+| STBL                          | 2025-08 | Yield Tokenization / Stablecoin         | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2025-09-05-cyfrin-stbl-v2.0.pdf)**  |
 
 ### Cyfrin - Contractor (2024-2025)
 | Project Name      | Date      | Category                              | Report |
