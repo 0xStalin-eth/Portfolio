@@ -1,6 +1,9 @@
 <hr/>
 <hr/>
 
+TODO - stbl-ess, Lotus, ModaFi, Strata MTM Symbiotic - Pick up interesting findings from these 3 audits!
+Whenever I have time: Try to do dive-deeps about interesting findings, explaining them, but also try to share how I caught those findings as well as how others could catch similar issues!
+
 # Who am I?
 
 Lead Security Researcher at Cyfrin with a focus on auditing complex systems deployed on the EVM.
@@ -15,6 +18,7 @@ My areas of expertise:
     - Integration with external protocols that generates yield (i.e. Lending Protocols)
 - yield-tokenization
     - Integration with Rebasing/Compounding interest tokens
+- Tranching
 - Staking Systems
 - Perpertuals / Options Derivatives
 - Crowdfunding / Launchpads / Airdrops Mechanisms
@@ -34,10 +38,15 @@ My areas of expertise:
 ### Cyfrin - Lead Security Researcher (August 2025 - Present)
 | Project Name                  | Date    | Category                                | Report |
 | :----------:                  | :---    | :---                                    | :----- |
-| Parallel Savings Fix PR       | 2026-06 | yield-bearing-vault / angle-fork        | **To be disclosed**  |
+| Securitize DSToken ScaledUI   | 2026-10 | ERC-8056                                | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-10-21-cyfrin-securitize-evm-dstoken-scaledui-amount-v2.0.pdf)**  |
+| Strata MTM Symbiotic          | 2026-09 | yield-tokenization / symbiotic-integration | **WIP**  |
+| Lotus Follow Up               | 2026-09 | Tranches / Lending / Morpho_VaultV2     | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-10-20-cyfrin-lotus-follow-up-v2.0.pdf)**  |
+| ModaFi Registry and Rental Rewards | 2026-07 | RWA                                     | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-09-22-cyfrin-moda-options-registry-rental-rewards-v2.0.pdf)**  |
+| Lotus                         | 2026-06 | Tranches / Lending / Morpho_VaultV2     | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-08-19-cyfrin-lotus-v2.0.pdf0)**  |
+| Parallel Savings Fix PR       | 2026-06 | yield-bearing-vault / angle-fork        | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-10-23-cyfrin-parallel-savings-fix-v2.0.pdf)**  |
 | STBL ESS and Redemptions      | 2026-05 | yield-tokenization                      | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-06-17-cyfrin-stbl-ess-v2.0.pdf)**  |
-| Parallel Upgrade v3.2         | 2026-05 | EIP-3009-integration                    | **To be disclosed**  |
-| Tetris Vault                  | 2026-04 | yield-aggregator                        | **To be disclosed**  |
+| Parallel Upgrade v3.2         | 2026-05 | EIP-3009-integration                    | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-10-23-cyfrin-parallel-3.2-upgrade-v2.0.pdf)**  |
+| Tetris Vault                  | 2026-04 | yield-aggregator                        | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-06-12-cyfrin-tetris-finance-v2.2.pdf)**  |
 | Securitize_VaultRegistrarV2   | 2026-03 | EIP-712 and ERC-1271-implementations    | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-30-cyfrin-securitize-vault-registrarv2-v2.0.pdf)**  |
 | SecuritiveBridgeV2            | 2026-03 | Wormhole-Executor-Framework-Integration | **[Report](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-03-30-cyfrin-securitize-bridgev2-v2.0.pdf)**  |
 | WLFI - Stablecoin EIP-3009    | 2026-03 | EIP-3009-integration                    | **[PRIVATE](https://github.com/Cyfrin/cyfrin-audit-reports-private/blob/main/reports/2026-03-24-cyfrin-wlfi-stablecoinv2-eip3009-v2.0.pdf)**  |
