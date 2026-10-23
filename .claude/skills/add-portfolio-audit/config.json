@@ -1,0 +1,26 @@
+{
+  "public_repo": "/Users/stalinmacias/Documents/0xStalin/Audits/PrivateAudits/Cyfrin/Tools/Cyfrin-Reports/PUBLIC-Cyfrin-Reports/cyfrin-audit-reports",
+  "private_repo": "/Users/stalinmacias/Documents/0xStalin/Audits/PrivateAudits/Cyfrin/Tools/Cyfrin-Reports/PRIVATE-Cyfrin-Reports/cyfrin-audit-reports-private",
+  "process_report_scripts": "/Users/stalinmacias/Documents/0xStalin/AI_Tooling/Cyfrin_Skills/cyfrin-ai-skills/plugins/process-reports/skills/process-reports/scripts",
+  "default_table": "### Cyfrin - Lead Security Researcher",
+  "drop_tags": ["Formal Verification"],
+  "count_aliases": {
+    "RWA": "Real-World Assets",
+    "EIP3009": "EIP-3009",
+    "Perpetuals": "Perpetuals / Leverage",
+    "Leverage": "Perpetuals / Leverage"
+  },
+  "expertise_groups": {
+    "Vaults & Yield": ["Vault", "Yield", "Rebasing", "Lottery"],
+    "RWA & TradFi Systems": ["Real-World Assets", "RWA", "TradFi", "Securities Tokenization", "Real-Estate Tokenization", "Commodities Tokenization"],
+    "Lending Systems": ["Lending", "Morpho Fork", "Morpho", "Leverage"],
+    "Cross-Chain / Multichain": ["Cross-Chain", "LayerZero", "LayerZero Integration", "Chainlink CCIP", "Chainlink CCIP Integration", "Wormhole Executor Framework", "Wormhole Executor Framework Integration", "Circle CCTPv2"],
+    "Stablecoins": ["Stablecoin"],
+    "Staking Systems": ["Liquid Staking", "Staking", "Restaking"],
+    "Crowdfunding / Launchpads / Airdrops": ["Crowdfunding"],
+    "L2 Rollups": ["L2"],
+    "Tranching": ["Tranche"],
+    "Perpetuals / Options / Leverage": ["Perpetuals", "Options", "Leverage"],
+    "DEXs and UniswapV3/V4 Hooks": ["DEX", "UniswapV4", "UniswapV3", "CLM/DEX/AMM", "Concentrated Liquidity Manager", "UniswapV4 Fork"]
+  }
+}
